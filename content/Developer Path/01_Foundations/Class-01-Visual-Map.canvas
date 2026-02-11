@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"n1","type":"text","text":"# Why Bitcoin? (Class 01)\nCore Concepts Map","x":0,"y":0,"width":400,"height":150,"color":"1"},
+		{"id":"n2","type":"text","text":"## 4 Functions of Money\n- Store of Value\n- Medium of Exchange\n- Unit of Account\n- **System of Control**","x":-500,"y":250,"width":300,"height":200},
+		{"id":"n3","type":"text","text":"## Crusoe Economics\nSaving -> Innovation -> Capital","x":0,"y":250,"width":300,"height":200},
+		{"id":"n4","type":"text","text":"## Scarcity (S2F)\nInelasticity of Supply","x":500,"y":250,"width":300,"height":200},
+		{"id":"n5","type":"file","file":"Plan B Network/Developer Path/01_Foundations/Why_Bitcoin/Time-Preference.md","x":-250,"y":550,"width":250,"height":300},
+		{"id":"n6","type":"file","file":"Plan B Network/Developer Path/01_Foundations/Why_Bitcoin/Stock-to-Flow-Ratio.md","x":250,"y":550,"width":250,"height":300},
+		{"id":"n7","type":"text","text":"### THE INFLATION TRAP\n- Cantillon Effect\n- Shrinkflation\n- Skimpflation","x":-500,"y":950,"width":300,"height":200,"color":"4"},
+		{"id":"n8","type":"text","text":"### THE SOLUTION\n**Bitcoin**\n(De-virtualization)","x":500,"y":950,"width":300,"height":200,"color":"2"},
+		{"id":"n9","type":"file","file":"Plan B Network/Developer Path/01_Foundations/Why_Bitcoin/The-Skinny-Pirate-Analogy.md","x":0,"y":950,"width":300,"height":300}
+	],
+	"edges":[
+		{"id":"e1","fromNode":"n1","toNode":"n2","fromSide":"bottom","toSide":"top"},
+		{"id":"e2","fromNode":"n1","toNode":"n3","fromSide":"bottom","toSide":"top"},
+		{"id":"e3","fromNode":"n1","toNode":"n4","fromSide":"bottom","toSide":"top"},
+		{"id":"e4","fromNode":"n3","toNode":"n5","fromSide":"bottom","toSide":"top","label":"Low Time Preference"},
+		{"id":"e5","fromNode":"n4","toNode":"n6","fromSide":"bottom","toSide":"top"},
+		{"id":"e6","fromNode":"n2","toNode":"n7","fromSide":"bottom","toSide":"top","label":"System of Control"},
+		{"id":"e7","fromNode":"n7","toNode":"n9","fromSide":"right","toSide":"left","label":"Resistence"},
+		{"id":"e8","fromNode":"n9","toNode":"n8","fromSide":"right","toSide":"left"}
+	]
+}
