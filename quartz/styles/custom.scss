@@ -1,1 +1,133 @@
-@use "./variables.scss";
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// --- Variables ---
+:root {
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --transition-fast: 150ms ease;
+}
+
+// --- General Typography & Layout ---
+body {
+  line-height: 1.7; // Improve readability
+  font-size: 1.05rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--secondary);
+  letter-spacing: -0.02em;
+}
+
+h1 {
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+article {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+// --- Links ---
+a {
+  text-decoration: none;
+  font-weight: 500;
+  transition: color var(--transition-fast), border-bottom-color var(--transition-fast);
+  border-bottom: 1px solid transparent;
+
+  &:hover {
+    color: var(--tertiary);
+    border-bottom-color: var(--tertiary);
+  }
+
+  &.internal {
+    background-color: var(--highlight);
+    border-radius: var(--radius-sm);
+    padding: 0 0.2rem;
+    
+    &:hover {
+      background-color: color-mix(in srgb, var(--highlight), var(--secondary) 10%);
+    }
+  }
+}
+
+// --- Sidebar & Explorer ---
+.sidebar {
+  font-size: 0.95rem;
+}
+
+// --- Right Sidebar Components (Graph, TOC) ---
+.graph-view-container, .toc {
+  background-color: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  box-shadow: var(--shadow-sm);
+  margin-bottom: 2rem;
+}
+
+// --- Callouts / Blockquotes ---
+blockquote {
+  background-color: var(--highlight);
+  border-left: 4px solid var(--secondary);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  font-style: normal; // Remove italic default
+  color: var(--darkgray);
+}
+
+// --- Tables ---
+table {
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+  
+  th {
+    background-color: var(--lightgray);
+    color: var(--dark);
+    font-weight: 600;
+  }
+}
+
+// --- Code Blocks ---
+pre {
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--lightgray);
+}
+// Explorer items hover transitions
+.explorer {
+  .folder-container, .file-container {
+    transition: all 0.2s ease;
+    border-radius: 4px;
+    padding: 0.2rem 0.4rem;
+
+    &:hover {
+      background-color: var(--highlight);
+      transform: translateX(4px);
+    }
+  }
+
+  .folder-button {
+    transition: transform 0.2s ease;
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+}
+
+// Global link transitions
+a {
+  transition: color 0.2s ease, border-bottom 0.2s ease;
+}

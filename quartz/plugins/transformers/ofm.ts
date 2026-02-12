@@ -660,13 +660,14 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
         plugins.push(() => {
           return (tree: HtmlRoot, _file) => {
             visit(tree, "element", (node) => {
-              if (node.tagName === "input" && node.properties.type === "checkbox") {
+              if (node.tagName === "input" && node.properties?.type === "checkbox") {
                 const isChecked = node.properties?.checked ?? false
                 node.properties = {
+                  ...node.properties,
                   type: "checkbox",
-                  disabled: false,
+                  disabled: false, // Ensure they are not disabled
                   checked: isChecked,
-                  class: "checkbox-toggle",
+                  className: ["checkbox-toggle"], // Use className for rehype
                 }
               }
             })

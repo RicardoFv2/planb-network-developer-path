@@ -1,4 +1,7 @@
-import { getFullSlug } from "../../util/path"
+const getFullSlug = (window: Window) => {
+  const res = window.document.body.dataset.slug
+  return res || "index"
+}
 
 const checkboxId = (index: number) => `${getFullSlug(window)}-checkbox-${index}`
 
@@ -6,6 +9,7 @@ document.addEventListener("nav", () => {
   const checkboxes = document.querySelectorAll(
     "input.checkbox-toggle",
   ) as NodeListOf<HTMLInputElement>
+
   checkboxes.forEach((el, index) => {
     const elId = checkboxId(index)
 
@@ -16,6 +20,7 @@ document.addEventListener("nav", () => {
 
     el.addEventListener("change", switchState)
     window.addCleanup(() => el.removeEventListener("change", switchState))
+
     if (localStorage.getItem(elId) === "true") {
       el.checked = true
     }
