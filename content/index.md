@@ -61,7 +61,6 @@ title: Welcome to Plan B Network Developer Path
 
 ## 🛠️ Tools & Resources
 - [[Resources/Glossary-of-Terms|Glossary of Terms]]
-- [[Developer_Path_MOC|Developer Path MOC]]
 
 ---
 **Total Progress:** 20%

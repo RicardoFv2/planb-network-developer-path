@@ -42,4 +42,4 @@
 **A:** It shows that physical force (The Big Pirate) can be defeated by math (The Cipher). If a map is encrypted or held in your head, violence cannot take your wealth.
 
 ---
-[[Developer Path MOC|Return to Index]]
+[[index|Return to Index]]

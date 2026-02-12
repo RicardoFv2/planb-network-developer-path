@@ -78,4 +78,4 @@ Giacomo structures the course as an evolution:
 - **Saifedean Ammous - The Bitcoin Standard:** The S2F model.
 - **Alex Gladstein - Check Your Financial Privilege:** The human rights case.
 
-[[Developer Path MOC|Return to Index]]
+[[index|Return to Index]]
