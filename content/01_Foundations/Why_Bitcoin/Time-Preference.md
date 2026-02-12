@@ -8,5 +8,5 @@ For a developer and for individual sovereignty, time preference is the foundatio
 
 **Links:**
 - Sound-Money-Principles-MOC
-- [[Crusoe-Economics]]
+- Crusoe-Economics
 - Fiat-Incentives-and-Culture
