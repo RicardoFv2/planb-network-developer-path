@@ -1,17 +1,15 @@
-# Quartz v4
+# Plan B Network Developer Path
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Este es mi cuaderno de notas y recursos para el Developer Path de Plan B Network, publicado utilizando Quartz.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Contenido
+Aquí encontrarás mis apuntes sobre:
+- Fundamentos de Bitcoin.
+- Desarrollo técnico y protocolos.
+- Recursos y material de estudio.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Cómo usar este sitio
+El sitio está construido automáticamente con [Quartz 4](https://quartz.jzhao.xyz/).
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+*Notas personales de RicardoFv2*
