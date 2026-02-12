@@ -1,3 +1,7 @@
+---
+title: Welcome to Plan B Network Developer Path
+---
+
 # 🗺️ Developer Path - Plan B Network
 > Progress tracking and content map for Bitcoin Development studies.
 
