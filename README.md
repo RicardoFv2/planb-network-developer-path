@@ -1,6 +1,6 @@
 # Plan B Network Developer Path
 
-Este es mi cuaderno de notas y recursos para el Developer Path de Plan B Network, publicado utilizando Quartz.
+Este es mi cuaderno de notas y recursos para el Developer Path de Plan B Network, gestionado en **Obsidian** y publicado utilizando **Quartz**.
 
 ## Contenido
 Aquí encontrarás mis apuntes sobre:
