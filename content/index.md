@@ -29,7 +29,7 @@ title: Welcome to Plan B Network Developer Path
 - [[01_Foundations/Why_Bitcoin/The-Fiat-Life|The Fiat Life]]
 
 ### Visuals & Resources
-- [[01_Foundations/Class-01-Visual-Map.canvas|Visual Concept Map]]
+- Visual Concept Map
 - [[01_Foundations/Review/Class-01-Summary|Class 01 Summary]]
 - [[01_Foundations/Review/Class-01-Flashcards|Class 01 Flashcards]]
 - [[Resources/Lecture-01-Resources|Lecture 01 Resources]]

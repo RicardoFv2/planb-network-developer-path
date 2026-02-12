@@ -1,4 +1,4 @@
-﻿# Crusoe Economics
+# Crusoe Economics
 
 **Definition:**
 A simple economic model to understand first principles of saving and capital accumulation.
@@ -13,4 +13,4 @@ Saving is the prerequisite for innovation. Crusoe can only build a fishing rod (
 **Links:**
 - [[Time-Preference]]
 - [[Energy-Harvesting-and-Capital]]
-- [[Sound-Money-Principles-MOC]]
+- Sound-Money-Principles-MOC

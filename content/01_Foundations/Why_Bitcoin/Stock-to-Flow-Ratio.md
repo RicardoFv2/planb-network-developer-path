@@ -8,5 +8,5 @@ This is vital for understanding why Bitcoin is 'Hard Money.' Most commodities ha
 
 **Links:**
 - [[Inelasticity-of-Supply]]
-- [[Bitcoin-Halving-Cycle]]
-- [[Hard-Money-Economics]]
+- Bitcoin-Halving-Cycle
+- Hard-Money-Economics

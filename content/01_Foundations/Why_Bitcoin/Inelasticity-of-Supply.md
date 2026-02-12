@@ -8,4 +8,4 @@ Bitcoin is the only asset in the universe with **perfectly inelastic supply**. E
 
 **Links:**
 - [[Stock-to-Flow-Ratio]]
-- [[Hard-Money-Economics]]
+- Hard-Money-Economics
