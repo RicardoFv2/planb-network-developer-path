@@ -2,8 +2,8 @@
 > Progress tracking and content map for Bitcoin Development studies.
 
 ## 📚 Modules
-- [ ] [[01_Foundations/01. Why Bitcoin - Deep Dive Summary|01. Why Bitcoin (DEEP DIVE Summary)]]
-- [ ] [[01_Foundations/02. How Bitcoin - Deep Dive Summary|02. How Bitcoin (DEEP DIVE Summary)]]
+- [ ] [[01_Foundations/01_Why_Bitcoin_Deep_Dive_Summary|01. Why Bitcoin (DEEP DIVE Summary)]]
+- [ ] [[01_Foundations/02_How_Bitcoin_Deep_Dive_Summary|02. How Bitcoin (DEEP DIVE Summary)]]
 
 ## 🏛️ Foundations: Why Bitcoin (Lecture 01)
 ### Economics & Philosophy
