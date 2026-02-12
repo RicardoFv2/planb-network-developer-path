@@ -1,3 +1,86 @@
-@use "./base.scss";
+// Custom styles for Plan B Network Developer Path
 
-// put your custom CSS here!
+// 1. Beautiful Checkboxes for the MOC tracker
+input[type="checkbox"] {
+  appearance: none;
+  width: 1.2rem;
+  height: 1.2rem;
+  border: 2px solid var(--secondary);
+  border-radius: 4px;
+  cursor: pointer;
+  position: relative;
+  vertical-align: middle;
+  margin-right: 0.5rem;
+  transition: all 0.2s ease;
+
+  &:checked {
+    background-color: var(--secondary);
+    &::after {
+      content: "âœ“";
+      position: absolute;
+      color: var(--light);
+      font-size: 0.9rem;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+  }
+
+  &:hover {
+    border-color: var(--tertiary);
+    box-shadow: 0 0 5px var(--highlight);
+  }
+}
+
+// 2. Card-like appearance for Explorer and Sidebars
+.left, .right {
+  .explorer, .backlinks, .graph, .toc {
+    background-color: rgba(var(--lightgray), 0.1);
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid rgba(var(--gray), 0.1);
+    transition: transform 0.2s ease;
+    
+    &:hover {
+      border-color: var(--tertiary);
+    }
+  }
+}
+
+// 3. Elegant Article Title
+.article-title {
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.5rem;
+  background: linear-gradient(90deg, var(--dark), var(--secondary));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+// 4. Subtle background glow for dark mode
+body[aria-theme="dark"] {
+  background-image: radial-gradient(circle at 50% -20%, rgba(123, 151, 170, 0.05) 0%, transparent 50%);
+}
+
+// 5. Code block improvements
+pre {
+  border-radius: 12px !important;
+  border: 1px solid rgba(var(--gray), 0.2) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+// 6. Navigation Link animations
+a.internal {
+  text-decoration: none;
+  background-image: linear-gradient(var(--secondary), var(--secondary));
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.3s;
+
+  &:hover {
+    background-size: 100% 2px;
+    color: var(--secondary);
+  }
+}
