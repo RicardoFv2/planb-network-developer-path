@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "ricardofv2.github.io/planb-netwokr-developer-path",
+    baseUrl: "ricardofv2.github.io/planb-network-developer-path",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
