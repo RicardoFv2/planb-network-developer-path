@@ -1,4 +1,4 @@
-# Crusoe Economics
+﻿# Crusoe Economics
 
 **Definition:**
 A simple economic model to understand first principles of saving and capital accumulation.
@@ -11,6 +11,6 @@ A simple economic model to understand first principles of saving and capital acc
 Saving is the prerequisite for innovation. Crusoe can only build a fishing rod (Capital) if he has a store of fish to eat while he is building it. This represents the 'civilizational cycle' of saving -> innovating -> increasing productivity.
 
 **Links:**
-- Time-Preference
-- Energy-Harvesting-and-Capital
-- Sound-Money-Principles-MOC
+- [[Time-Preference]]
+- [[Energy-Harvesting-and-Capital]]
+- [[Sound-Money-Principles-MOC]]

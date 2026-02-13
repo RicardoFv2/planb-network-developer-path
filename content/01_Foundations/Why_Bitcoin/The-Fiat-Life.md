@@ -1,4 +1,4 @@
-# The Fiat Life
+﻿# The Fiat Life
 
 **Definition:**
 The cultural and economic state of a society living under inflationary money.
@@ -12,5 +12,5 @@ The cultural and economic state of a society living under inflationary money.
 Living in 'Fiat Life' means being trapped in a cycle of debt and disposable goods. Bitcoin is the antidote because it allows for the reclamation of quality and long-term thinking.
 
 **Links:**
-- Shrinkflation-and-Skimpflation
-- Time-Preference
+- [[Shrinkflation-and-Skimpflation]]
+- [[Time-Preference]]

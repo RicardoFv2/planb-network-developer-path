@@ -1,4 +1,4 @@
-# Shelling Out: The Origins of Money (Nick Szabo)
+﻿# Shelling Out: The Origins of Money (Nick Szabo)
 
 **Core Thesis:**
 Money didn't start with governments or banks. It started with **Collectibles**. Humans needed a way to store 'unforgeable costliness' to solve the problem of reciprocal altruism across time.
@@ -12,5 +12,5 @@ Money didn't start with governments or banks. It started with **Collectibles**. 
 Bitcoin is the digital realization of 'Unforgeable Costliness.' It is the first time we have reached Szabo's ideal of money without needing a third party to verify its authenticity.
 
 **Links:**
-- De-virtualization-of-Money
-- Stock-to-Flow-Ratio
+- [[De-virtualization-of-Money]]
+- [[Stock-to-Flow-Ratio]]

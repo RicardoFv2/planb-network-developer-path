@@ -1,5 +1,12 @@
 # Lecture 01 - Recommended Resources
 
+## 🎓 Recommended Courses (Plan ₿ Academy)
+Access these courses directly on the Plan B Network platform:
+- [The Bitcoin Journey](https://planb.academy/en/courses/the-bitcoin-journey-2b7dc507-81e3-4b70-88e6-41ed44239966)
+- [Hyperinflation Case Studies](https://planb.academy/en/courses/hyperinflation-case-studies-caa75343-ac90-4249-bcca-0e2e57c3a0f1)
+- [Austrian School of Economics Fundamentals](https://planb.academy/en/courses/austrian-school-of-economics-fundamentals-d955dd28-b7c6-4ba2-a123-d932e21d148f)
+- [History of Coinage](https://planb.academy/en/courses/history-of-coinage-0e871d90-8be9-11f0-a76d-33b6e50b34be)
+
 ## Core Books & Essays mentioned by Zucco
 The first lecture focuses on Economics, History, and the "Why" of Bitcoin.
 
