@@ -1,16 +1,41 @@
-﻿# Shelling Out: The Origins of Money (Nick Szabo)
+﻿---
+title: "Shelling Out (Nick Szabo Summary)"
+description: "The pre-history of money and the evolution of collectibles as stores of value."
+tags:
+  - history
+  - economics
+  - collectibles
+---
 
-**Core Thesis:**
-Money didn't start with governments or banks. It started with **Collectibles**. Humans needed a way to store 'unforgeable costliness' to solve the problem of reciprocal altruism across time.
+# Shelling Out (Nick Szabo Summary)
 
-**Key Concepts:**
-- **Unforgeable Costliness:** For something to be money, it must be hard to create but easy to verify. If it's easy to forge (like fake beads), it ceases to be a store of value.
-- **Evolution:** Collectibles (shells, teeth, beads) -> Precious Metals -> Coins -> Fiat.
-- **Transfer of Wealth:** Collectibles allowed humans to trade across generations and between tribes who didn't trust each other.
+[[index|← Return to Index]]
 
-**Why it matters for Bitcoin:**
-Bitcoin is the digital realization of 'Unforgeable Costliness.' It is the first time we have reached Szabo's ideal of money without needing a third party to verify its authenticity.
+> [!abstract] TL;DR
+> Before metal coins, humans used "collectibles" like sea shells and beads as stores of value to solve the problem of trust and time-traveling wealth.
 
-**Links:**
-- [[De-virtualization-of-Money]]
-- [[Stock-to-Flow-Ratio]]
+## The Problem of Cooperation
+
+Early humans needed to trade but faced the problem of **reciprocal altruism**. If I help you hunt today, how do I know you'll give me meat next month when I'm hungry?
+
+## The Solution: Collectibles
+
+Nick Szabo argues that humans evolved to search for items that were:
+
+1.  **Durable:** Lasts a long time.
+2.  **Portable:** Easy to carry.
+3.  **Hard to Forge:** Requires energy or skill to find (Unforgeable Costliness).
+
+Items like shells and rare beads functioned as a **proxy for energy and time**. By holding a rare shell, you were holding a proof of the effort it took to find it.
+
+## Evolution to Bitcoin
+
+Bitcoin is the digital evolution of these early collectibles. It is the first "digital collectible" that is perfectly scarce, portable, and impossible to forge, fulfilling the requirements for money better than any shell or piece of gold ever could.
+
+## Related Notes
+
+- [[Sound-Money-Principles-MOC]]
+- [[Energy-Harvesting-and-Capital]]
+- [[Inert-and-Malleable-Gold]]
+
+#history #economics #collectibles #bitcoin #nickszabo

@@ -1,22 +1,35 @@
+---
+title: "Blind Signatures for Privacy"
+description: "How blind signatures enable private digital cash transactions."
+tags:
+  - cryptography
+  - privacy
+  - ecash
+---
+
 # Blind Signatures for Privacy
 
-## The Problem
-If a bank signs a digital banknote for you, they usually know the serial number. When that banknote is later deposited by a merchant, the bank can link your identity to the merchant, destroying your privacy.
+[[index|← Return to Index]]
 
-## The Solution: Blind Signatures
-Invented by **David Chaum**, a blind signature allows an authority to sign a message without ever seeing its content.
+> [!abstract] TL;DR
+> Blind signatures allow an authority to sign a piece of data without seeing its content, enabling untraceable digital cash.
 
-## The Envelope Analogy
-1. **Preparation:** You write a serial number on a piece of paper and put it in an envelope with a piece of carbon paper.
-2. **Blinding:** You give the sealed envelope to the Bank.
-3. **Signing:** The Bank signs the *outside* of the envelope. The signature is transferred through the carbon paper onto the serial number inside.
-4. **Unblinding:** You take the envelope back and open it. You now have a serial number signed by the bank, but the bank **never saw the number**.
+## What Is It?
 
-## Mathematical Inception
-In cryptography, this is achieved by multiplying the message by a random "blinding factor" before sending it to the signer. After receiving the signature, you divide by the blinding factor to reveal the valid signature on the original message.
+Invented by David Chaum, a blind signature is a form of digital signature in which the content of a message is masked (blinded) before it is signed. The signed message can then be unblinded, resulting in a valid signature for the original message.
 
-## Legacy
-Blind signatures are the foundation of **Chaumian Mints**, which are still relevant today in Bitcoin-adjacent technologies like **Fedimint** and **Cashu**.
+## Why Does It Matter?
 
----
-#cryptography #privacy #ecash
+In a digital cash system, this provides **unlinkability**. The bank signs a "digital coin" but doesn't know the serial number of that specific coin. Therefore, when the coin is eventually spent, the bank cannot link the original depositor to the final spender. This replicates the privacy of physical cash in a digital environment.
+
+## Analogy: The Envelope and Carbon Paper
+
+Imagine a user puts a document and a piece of carbon paper inside an envelope. They give the envelope to an authority. The authority signs the **outside** of the envelope. The pressure of the signature goes through the carbon paper and marks the document inside. The user takes the envelope back, removes the document, and now has a signed document that the authority never actually saw.
+
+## Related Notes
+
+- [[David-Chaum-and-eCash]]
+- [[Digital-Signatures-and-Authorship]]
+- [[Symmetric-vs-Asymmetric-Cryptography]]
+
+#cryptography #privacy #ecash #history

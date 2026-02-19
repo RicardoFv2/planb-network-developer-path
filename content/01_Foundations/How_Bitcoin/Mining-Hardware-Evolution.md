@@ -1,27 +1,41 @@
-# Mining Hardware Evolution (CPU to ASIC)
-
-## The Race for Efficiency
-Giacomo explains that because Proof of Work (PoW) has monetary value, there is a massive market incentive to optimize the hardware used to produce it. This led to a rapid technological evolution:
-
-### 1. CPU (Central Processing Unit)
-- **Early Days (2009):** Satoshi and the first miners used standard computer processors.
-- **Nature:** Very flexible and can do anything, but not optimized for the specific "meat grinder" math of SHA-256.
-
-### 2. GPU (Graphics Processing Unit)
-- **Evolution:** Miners realized that video cards, designed for parallel graphics math, were much faster at hashing.
-- **Impact:** Efficiency increased significantly, making CPU mining obsolete.
-
-### 3. FPGA (Field Programmable Gate Array)
-- **Evolution:** Chips that can be "reprogrammed" at the hardware level to do one specific task.
-- **Nature:** More efficient than GPUs, but still somewhat flexible.
-
-### 4. ASIC (Application-Specific Integrated Circuit)
-- **The End Game:** Chips that are physically manufactured (melted in silicon) to do **nothing but SHA-256**.
-- **Impact:** They are thousands of times more efficient than any general computer.
-- **The "ASIC Trap":** Peter Todd argued that this leads to hardware specialization where the cost of production drops according to Moore's Law, creating an inflation pressure that requires Bitcoin's "Difficulty Adjustment" to counteract.
-
-## Why it Matters
-ASICs represent a physical commitment to the network. An ASIC miner cannot be used to mine other algorithms or run a web server; it is "locked" into the security of Bitcoin.
-
 ---
-#bitcoin #mining #asics #hardware
+title: "Mining Hardware Evolution"
+description: "The transition from CPU to ASIC and the industrialization of Bitcoin security."
+tags:
+  - bitcoin
+  - mining
+  - hardware
+  - history
+---
+
+# Mining Hardware Evolution
+
+[[index|← Return to Index]]
+
+> [!abstract] TL;DR
+> Bitcoin mining has evolved from hobbyist CPU mining to industrial-scale ASICs, increasing network security and efficiency.
+
+## The Stages of Evolution
+
+1.  **CPU (Central Processing Unit):** In the early days, Satoshi and Hal Finney mined on regular computers.
+2.  **GPU (Graphics Processing Unit):** Miners realized that video cards were much faster at calculating SHA-256 hashes.
+3.  **FPGA (Field Programmable Gate Array):** Specialized chips that could be "re-programmed" for mining, offering better efficiency.
+4.  **ASIC (Application-Specific Integrated Circuit):** Chips designed for **one thing only**: calculating SHA-256. They are thousands of times more efficient than GPUs.
+
+## Why Does It Matter?
+
+- **Network Security:** The move to ASICs has made the total hashrate (and thus the security) of the Bitcoin network astronomically high.
+- **Efficiency:** ASICs do more work for less electricity compared to general-purpose hardware.
+- **Industrialization:** Mining is now a professional industry requiring massive capital investment, which stabilizes the network but changes the decentralization dynamics of who can mine profitably.
+
+## The Myth of "One CPU, One Vote"
+
+Satoshi's original whitepaper mentioned "one CPU, one vote." While the hardware has changed, the principle of **Proof of Work** remains the same: the entity that contributes the most verifiable energy to the network has the most influence over the next block.
+
+## Related Notes
+
+- [[Proof-of-Work-Unforgeable-Costliness]]
+- [[Hashcash-and-Linear-Cost]]
+- [[Mining-Economics-Subsidy-vs-Fees]]
+
+#bitcoin #mining #hardware #history #economics

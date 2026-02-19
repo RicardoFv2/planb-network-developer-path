@@ -1,22 +1,38 @@
+---
+title: "David Chaum and eCash"
+description: "The first attempt at privacy-preserving digital cash."
+tags:
+  - ecash
+  - history
+  - cryptography
+---
+
 # David Chaum and eCash
 
-## Who is David Chaum?
-David Chaum is a legendary cryptographer and a founding father of the **Cypherpunk** movement. In the 1980s, he recognized that as commerce moved online, we would lose the privacy of physical cash unless we invented a digital equivalent.
+[[index|← Return to Index]]
 
-## DigiCash and eCash
-In 1989, Chaum founded **DigiCash**. His flagship product was **eCash**, a system that allowed users to withdraw digital "banknotes" from a bank and spend them anonymously.
+> [!abstract] TL;DR
+> David Chaum's eCash was the first practical digital cash system, offering anonymity but still relying on a centralized bank.
 
-## How eCash Worked
-1. **Withdrawal:** A user would create a digital token and have the bank sign it.
-2. **Blind Signature:** Through a cryptographic trick, the bank would sign the token without seeing its serial number. This ensured the bank couldn't track where the money was spent.
-3. **Payment:** The user gives the token to a merchant.
-4. **Verification:** The merchant checks the token with the bank to ensure it hasn't been double-spent.
+## What Is It?
 
-## The Failure
-Despite being technically brilliant, DigiCash failed because:
-- **Centralization:** It required banks to participate. Banks were hesitant to support a system that gave users total privacy.
-- **Censorship:** Regulatory pressure made it difficult for a centralized entity to operate a private money system.
-- **User Experience:** It was perhaps "ahead of its time" for the 1990s internet.
+In the early 1980s, David Chaum proposed a system for anonymous digital payments called **eCash**. It was implemented by his company, DigiCash. The system used **Blind Signatures** to allow users to withdraw "coins" from a bank that the bank itself couldn't track when they were later spent.
 
----
-#history #cypherpunks #ecash #privacy
+## Why Does It Matter?
+
+- **First Digital Cash:** It proved that digital payments could be anonymous and secure.
+- **Privacy Pioneer:** Chaum realized early on that digital systems would lead to total surveillance if not built with privacy in mind.
+- **The Centralization Failure:** DigiCash eventually went bankrupt because it relied on agreements with traditional banks. This taught the Cypherpunks that "Digital Cash" could only survive if it was **decentralized**.
+
+## The Trade-off
+
+- **Strength:** Perfect privacy through blind signatures.
+- **Weakness:** The bank could still refuse to sign coins, freeze the user's account, or go out of business (which it did).
+
+## Related Notes
+
+- [[Blind-Signatures-for-Privacy]]
+- [[E-Gold-and-the-Failure-of-Centralized-Digital-Gold]]
+- [[Hal-Finney-and-RPOW]]
+
+#ecash #history #cryptography #privacy

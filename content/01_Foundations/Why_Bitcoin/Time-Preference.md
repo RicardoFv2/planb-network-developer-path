@@ -1,12 +1,39 @@
+---
+title: "Time Preference"
+description: "The most fundamental concept in economics: the valuation of time."
+tags:
+  - economics
+  - philosophy
+  - basics
+---
+
 # Time Preference
 
-**Definition:**
-Time preference is the ratio of valuation between a good at a present date compared to its valuation at a future date. It represents our internal 'civilizational compass': a **Low Time Preference** (the Ant) means valuing the future more and being willing to sacrifice consumption today to save. A **High Time Preference** (the Grasshopper) means wanting immediate gratification, discounting the future entirely.
+[[index|← Return to Index]]
 
-**Why it matters:**
-For a developer and for individual sovereignty, time preference is the foundation of progress. Innovation is only possible if we have the low time preference required to save first. In a business context, companies with low time preference build for decades, while high time preference environments focus on short-term 'fiat' gains. Bitcoin is a tool that encourages a lower time preference because it rewards saving; in contrast, the fiat system's inflation forces us into high time preference, where we spend money as fast as possible before it loses value.
+> [!abstract] TL;DR
+> Time preference is the ratio of valuation between a good today and the same good in the future.
 
-**Links:**
-- [[Sound-Money-Principles-MOC]]
+## Types of Time Preference
+
+- **High Time Preference:** Valuing the present much more than the future. "I want it now." This leads to consumption, debt, and decay.
+- **Low Time Preference:** Valuing the future highly. Being willing to sacrifice consumption today to build a better tomorrow. This is the foundation of civilization.
+
+## Why It Matters
+
+The quality of our money dictates our time preference:
+
+- **Hard Money (Bitcoin/Gold):** Encourages Low Time Preference. If your money gains value over time, you are happy to wait and save.
+- **Soft Money (Fiat):** Encourages High Time Preference. If your money loses value every year, you are forced to spend it immediately before it evaporates.
+
+## The Civilizational Cycle
+
+Low time preference allows for **Saving**, which allows for **Innovation**, which leads to **Prosperity**. This cycle is what built the modern world, and it is what the fiat system is currently destroying.
+
+## Related Notes
+
 - [[Crusoe-Economics]]
-- [[Fiat-Incentives-and-Culture]]
+- [[The-Fiat-Life]]
+- [[Energy-Harvesting-and-Capital]]
+
+#economics #philosophy #basics #civilization #bitcoin

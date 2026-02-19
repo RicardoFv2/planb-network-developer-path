@@ -1,16 +1,38 @@
-﻿# The Fiat Life
+﻿---
+title: "The Fiat Life"
+description: "The cultural and economic consequences of living under a debasing currency."
+tags:
+  - philosophy
+  - economics
+  - society
+---
 
-**Definition:**
-The cultural and economic state of a society living under inflationary money.
+# The Fiat Life
 
-**Characteristics:**
-- **Ugly Architecture:** Nobody builds for the next 100 years because saving is impossible.
-- **Bad Health:** Skimpflation leads to cheaper, toxic food ingredients.
-- **Cultural Decay:** High time preference destroys art, patience, and long-term planning.
+[[index|← Return to Index]]
 
-**Why it matters:**
-Living in 'Fiat Life' means being trapped in a cycle of debt and disposable goods. Bitcoin is the antidote because it allows for the reclamation of quality and long-term thinking.
+> [!abstract] TL;DR
+> Fast, debasing money leads to a society focused on short-term consumption, debt, and decaying quality.
 
-**Links:**
-- [[Shrinkflation-and-Skimpflation]]
+## The Concept
+
+When the money you earn loses value every year, you are incentivized to spend it immediately or gamble it in risky investments just to keep up. This is "The Fiat Life."
+
+## Cultural Consequences
+
+- **High Time Preference:** People stop saving for the future and focus on instant gratification.
+- **Debt-Based Living:** Because money is cheap to borrow but hard to save, everyone is forced into debt to buy essentials like homes.
+- **Disposable Culture:** When money is "garbage," we build garbage. Buildings, clothes, and tools are made to be replaced rather than to last for generations.
+- **Skyrocketing Asset Prices:** Because money is no longer a store of value, everyone uses Real Estate and Stocks as "proxies" for money, pricing ordinary workers out of the market.
+
+## The Bitcoin Alternative
+
+Bitcoin offers a return to **Low Time Preference**. When you hold a currency that gains value over time, you are incentivized to wait, think of the future, and build things of lasting quality.
+
+## Related Notes
+
 - [[Time-Preference]]
+- [[The-Nixon-Shock-1971]]
+- [[Shrinkflation-and-Skimpflation]]
+
+#philosophy #economics #society #lifestyle #bitcoin

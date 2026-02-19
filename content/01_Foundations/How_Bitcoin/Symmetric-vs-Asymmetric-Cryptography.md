@@ -1,20 +1,41 @@
-# Symmetric vs. Asymmetric Cryptography
+---
+title: "Symmetric vs Asymmetric Cryptography"
+description: "Understanding the difference between shared keys and public/private key pairs."
+tags:
+  - cryptography
+  - security
+  - math
+---
+
+# Symmetric vs Asymmetric Cryptography
+
+[[index|← Return to Index]]
+
+> [!abstract] TL;DR
+> Symmetric cryptography uses one shared key, while asymmetric cryptography uses a public/private key pair, enabling secure communication over public channels.
 
 ## Symmetric Cryptography
-- **Mechanism:** Uses a single shared secret key for both encryption and decryption.
-- **Example:** The **Caesar Cipher** (shifting letters by a fixed number $n$).
-- **The "Secure Channel" Problem:** Both parties must meet in person or use a secure way to exchange the key before they can communicate. This does not scale for the internet.
-- **Vulnerability:** If the key is intercepted, all communication is compromised.
 
-## Asymmetric (Public-Key) Cryptography
-- **Mechanism:** Uses a **Key Pair**—one Public and one Private.
-    - **Public Key:** Shared openly. Used by others to encrypt messages for you.
-    - **Private Key:** Kept secret. Used only by you to decrypt those messages.
-- **Analogy:** A public mailbox where anyone can drop a letter (encryption with public key), but only the owner has the key to open it (decryption with private key).
-- **The Breakthrough:** It eliminates the need for a "secure channel" to exchange keys. You can communicate securely with complete strangers.
+- **The Mechanism:** Information is encrypted and decrypted using the **same key**.
+- **The Problem:** It requires a "secure channel" to exchange the key first. If an attacker intercepts the key, they can read all future messages.
+- **Example:** A physical safe with one key.
 
-## Role in Bitcoin
-Bitcoin uses asymmetric cryptography (specifically **Elliptic Curve Cryptography**) to define ownership. Your "Bitcoin Address" is derived from your Public Key, and your ability to spend is controlled by your Private Key.
+## Asymmetric (Public Key) Cryptography
 
----
-#bitcoin #cryptography #security
+- **The Mechanism:** Uses a mathematically linked pair of keys.
+  - **Public Key:** Can be shared with anyone (like an email address).
+  - **Private Key:** Must be kept secret (like a password).
+- **Function:** Anything encrypted with the public key can **only** be decrypted by the private key.
+- **Analogy:** A public mailbox. Anyone can drop a letter in (encrypt), but only the owner has the key to open it and read the contents (decrypt).
+
+## Why This Matters for Bitcoin
+
+Bitcoin relies entirely on **Asymmetric Cryptography** (ECDSA). Your "wallet" is a collection of private keys. Your "address" is derived from your public key. This allows you to receive funds from anyone in the world without having to share your secret private key.
+
+## Related Notes
+
+- [[Digital-Signatures-and-Authorship]]
+- [[Hash-Functions-and-Pre-image-Resistance]]
+- [[Blind-Signatures-for-Privacy]]
+
+#cryptography #security #math #encryption

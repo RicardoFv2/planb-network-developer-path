@@ -1,21 +1,40 @@
+---
+title: "Digital Signatures and Authorship"
+description: "Ensuring authenticity and non-repudiation in digital transactions."
+tags:
+  - cryptography
+  - signatures
+  - security
+---
+
 # Digital Signatures and Authorship
 
-## Overview
-While encryption is used to keep secrets, **Digital Signatures** are used to prove who sent a message and that it hasn't been tampered with.
+[[index|← Return to Index]]
 
-## How it Works
-1. **Signing:** The sender uses their **Private Key** to create a mathematical "seal" (signature) on a piece of data.
-2. **Verification:** Anyone with the sender's **Public Key** can verify that the signature is valid.
-3. **Properties:**
-    - **Authenticity:** Only the person with the private key could have created the signature.
-    - **Integrity:** If the message is changed even by one bit, the signature becomes invalid.
-    - **Non-repudiation:** The sender cannot later deny sending the message.
+> [!abstract] TL;DR
+> Digital signatures prove that a message was created by a specific sender and has not been altered, providing "unforgeable authorship."
 
-## The Wax Seal Analogy
-In the Middle Ages, a noble would use a signet ring (Private Key) to press a unique emblem into wax. Anyone recognizing the emblem (Public Key) knew the letter was authentic. Replicating the signet ring was hard; recognizing the seal was easy.
+## What Is It?
 
-## Importance for Bitcoin
-Bitcoin transactions are not "encrypted." They are **Publicly Signed**. When you send BTC, you are signing a message that says: *"I, the owner of these funds, authorize their transfer to this new address."*
+A digital signature is a mathematical scheme for verifying the authenticity of digital messages or documents. It uses **Asymmetric Cryptography**:
 
----
-#bitcoin #cryptography #signatures
+- **Private Key:** Used to "sign" the message. Only the owner knows it.
+- **Public Key:** Used by anyone to "verify" that the signature matches the message and the private key.
+
+## Why Does It Matter?
+
+In Bitcoin, digital signatures are used to prove ownership of coins. When you send bitcoin, you are signing a message that says: "I, the owner of this public key, authorize the transfer of these funds to a new public key." Without digital signatures, anyone could pretend to be you and spend your money (Identity Theft).
+
+## Key Properties
+
+- **Authenticity:** You know who sent it.
+- **Non-repudiation:** The sender cannot deny signing it later.
+- **Integrity:** If even one bit of the message changes, the signature becomes invalid.
+
+## Related Notes
+
+- [[Symmetric-vs-Asymmetric-Cryptography]]
+- [[Hash-Functions-and-Pre-image-Resistance]]
+- [[Blind-Signatures-for-Privacy]]
+
+#cryptography #signatures #security #identity

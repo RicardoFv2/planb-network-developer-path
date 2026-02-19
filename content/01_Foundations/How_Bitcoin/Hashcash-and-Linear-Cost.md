@@ -1,22 +1,37 @@
+---
+title: "Hashcash and Linear Cost"
+description: "How Adam Back used Proof of Work to stop spam by making communication costly."
+tags:
+  - history
+  - pow
+  - mining
+---
+
 # Hashcash and Linear Cost
 
-## The Problem: Sublinear Cost
-In the digital world, sending 1 email has a fixed cost (computer, internet, time). However, sending 1,000,000 emails costs almost exactly the same as sending one. This **sublinear cost** is what makes spam possible.
+[[index|← Return to Index]]
 
-## The Solution: Hashcash (Adam Back, 1997)
-Adam Back proposed a system where a computer must perform a small amount of work before sending an email.
-- **The Task:** Find a "partial collision" in a hash function (e.g., a SHA-256 hash that starts with 20 zeros).
-- **Verification:** The receiver's computer can check the work instantly (one hash), but the sender's computer had to try millions of combinations to find it.
+> [!abstract] TL;DR
+> Hashcash introduced Proof of Work to create "digital scarcity" of CPU time, making it expensive to send bulk spam emails.
 
-## Why it Works: Linear Cost
-Unlike a simple digital copy, Proof of Work (PoW) is **non-copyable**.
-- If you change the recipient's name or the timestamp, the hash changes completely.
-- This forces the sender to perform the work again for every single email.
-- **1 Email = 1 Unit of Work.**
-- **1 Million Emails = 1 Million Units of Work.**
+## What Is It?
 
-## Significance for Bitcoin
-Satoshi Nakamoto used Hashcash as the engine for Bitcoin's **Proof of Work**. It is what prevents attackers from "spamming" the network with fake blocks or rewriting history.
+Invented by Adam Back in 1997, **Hashcash** was a system designed to limit email spam and denial-of-service attacks. It required the sender to attach a "stamp" to every email. This stamp was a Proof of Work—a hash that met certain criteria (e.g., starting with 20 zeros).
 
----
-#bitcoin #mining #hashcash #spam
+## Why Does It Matter?
+
+- **Linear Cost:** In digital communication, sending 1 message or 1 million messages normally costs nearly the same (**sublinear cost**). Hashcash makes the cost **linear**: to send 1 million messages, you must expend 1 million times the CPU energy.
+- **Digital Scarcity:** It proved that you could make "cheap" digital actions "expensive" by anchoring them to physical CPU time and electricity.
+- **Foundation of Mining:** Bitcoin uses a modified version of Hashcash as its mining algorithm.
+
+## Significance
+
+Hashcash didn't solve the "double-spend" problem (you could reuse a stamp if the recipient didn't check), but it provided the mechanism for **Proof of Work** that Bitcoin eventually used to secure the Timechain.
+
+## Related Notes
+
+- [[Hal-Finney-and-RPOW]]
+- [[Proof-of-Work-Unforgeable-Costliness]]
+- [[Satoshi-Nakamoto-The-Final-Synthesis]]
+
+#history #pow #mining #economics
