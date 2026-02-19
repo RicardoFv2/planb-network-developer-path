@@ -16,10 +16,15 @@
 - [ ] [[01_Foundations/Why_Bitcoin/Crusoe-Economics|Crusoe Economics (Ant vs Grasshopper)]]
 - [ ] [[01_Foundations/Why_Bitcoin/Positive-Sum-Games|Positive-Sum Games]]
 - [ ] [[01_Foundations/Why_Bitcoin/Shelling-Out-Summary|Shelling Out (Nick Szabo Analysis)]]
+- [ ] [[01_Foundations/Why_Bitcoin/Energy-Harvesting-and-Capital|Energy Harvesting and Capital]]
+- [ ] [[01_Foundations/Why_Bitcoin/Bearer-Instrument-vs-Credit|Bearer Instrument vs Credit]]
+- [ ] [[01_Foundations/Why_Bitcoin/The-Skinny-Pirate-Analogy|The Skinny Pirate Analogy]]
 
 ### Scarcity & History
 
 - [ ] [[01_Foundations/Why_Bitcoin/Stock-to-Flow-Ratio|Stock-to-Flow Ratio]]
+- [ ] [[01_Foundations/Why_Bitcoin/Inelasticity-of-Supply|Inelasticity of Supply]]
+- [ ] [[01_Foundations/Why_Bitcoin/De-virtualization-of-Money|De-virtualization of Money]]
 - [ ] [[01_Foundations/Why_Bitcoin/The-History-of-Coinage|The History of Coinage]]
 - [ ] [[01_Foundations/Why_Bitcoin/Roman-Currency-Debasement|Roman Currency Debasement]]
 - [ ] [[01_Foundations/Why_Bitcoin/Historical-Hyperinflation-Cases|Hyperinflation Case Studies]]
@@ -29,6 +34,8 @@
 
 - [ ] [[01_Foundations/Why_Bitcoin/The-Cantillon-Effect|The Cantillon Effect]]
 - [ ] [[01_Foundations/Why_Bitcoin/Fractional-Reserve-Banking|Fractional Reserve (Parking Lot Analogy)]]
+- [ ] [[01_Foundations/Why_Bitcoin/Money-as-a-System-of-Control|Money as a System of Control]]
+- [ ] [[01_Foundations/Why_Bitcoin/Shrinkflation-and-Skimpflation|Shrinkflation and Skimpflation]]
 - [ ] [[01_Foundations/Why_Bitcoin/The-Fiat-Life|The Fiat Life]]
 
 ### Visuals & Resources
