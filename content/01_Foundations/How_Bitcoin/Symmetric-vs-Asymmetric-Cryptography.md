@@ -36,4 +36,6 @@ Bitcoin relies entirely on **Asymmetric Cryptography** (ECDSA). Your "wallet" is
 - [[Hash-Functions-and-Pre-image-Resistance]]
 - [[Blind-Signatures-for-Privacy]]
 
+[[index|← Return to Index]]
+
 #cryptography #security #math #encryption

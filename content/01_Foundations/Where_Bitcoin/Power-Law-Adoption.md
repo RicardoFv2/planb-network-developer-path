@@ -30,3 +30,5 @@ Bitcoin's long-term price and adoption metrics (like address count or hashrate) 
 - [[Stock-to-Flow-Ratio]]
 - [[Greshams-Law]]
 - [[The-Sigma-Equation-Halving]]
+
+[[index|← Return to Index]]

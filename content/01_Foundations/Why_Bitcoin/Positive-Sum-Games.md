@@ -32,4 +32,6 @@ A sound monetary system encourages society to focus on positive-sum games (produ
 - [[The-History-of-Coinage]]
 - [[Sound-Money-Principles-MOC]]
 
+[[index|← Return to Index]]
+
 #economics #philosophy #trade #wealth

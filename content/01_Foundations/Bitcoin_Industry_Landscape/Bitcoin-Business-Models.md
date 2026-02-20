@@ -40,3 +40,5 @@ Giacomo Zucco identifies six main patterns for genuine entrepreneurship built _a
 
 - [[Infrastructure-Business-Models]]
 - [[Monetizing-Decentralization]]
+
+[[index|← Return to Index]]

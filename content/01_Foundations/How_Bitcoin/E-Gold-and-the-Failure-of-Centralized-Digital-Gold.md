@@ -37,3 +37,5 @@ Founded in 1996, **e-gold** was a digital currency that allowed users to transfe
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
 
 #history #digitalgold #economics #centralization
+
+[[index|← Return to Index]]

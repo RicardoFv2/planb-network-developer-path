@@ -40,4 +40,6 @@ A hash is like a **fingerprint**. You can't reconstruct a human being from their
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Digital-Signatures-and-Authorship]]
 
+[[index|← Return to Index]]
+
 #cryptography #math #security #hashing

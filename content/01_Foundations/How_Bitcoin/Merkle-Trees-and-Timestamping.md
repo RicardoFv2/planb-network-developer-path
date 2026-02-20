@@ -39,4 +39,6 @@ Bitcoin replaced the _New York Times_ with the **Proof of Work**. Instead of tru
 - [[The-Timechain]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
 
+[[index|← Return to Index]]
+
 #cryptography #history #timechain #merkletrees

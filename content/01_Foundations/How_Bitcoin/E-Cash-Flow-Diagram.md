@@ -39,3 +39,5 @@ Bitcoin removed the "Bank" in the middle. Instead of a central server checking f
 - [[The-Double-Spending-Problem]]
 
 #ecash #economics #history #centralization
+
+[[index|← Return to Index]]

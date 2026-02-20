@@ -33,3 +33,5 @@ Bitcoin is the first asset in history to have a mathematically fixed supply sche
 - [[Inelasticity-of-Supply]]
 - [[The-Sigma-Equation-Halving]]
 - [[Inert-and-Malleable-Gold]]
+
+[[index|← Return to Index]]

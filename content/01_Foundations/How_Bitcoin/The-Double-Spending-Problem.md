@@ -36,4 +36,6 @@ Solving double-spending without a central authority is the core invention of Bit
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
 
+[[index|← Return to Index]]
+
 #bitcoin #economics #security #doublespend

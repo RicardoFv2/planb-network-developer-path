@@ -35,3 +35,5 @@ This model is the gold standard for "Not Your Keys, Not Your Coins." It provides
 
 - [[Spectrum-of-Security-Models]]
 - [[The-Timechain]]
+
+[[index|← Return to Index]]

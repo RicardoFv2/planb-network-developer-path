@@ -39,3 +39,5 @@ Bitcoin uses cryptography to regain these physical properties:
 - [[Money-as-a-System-of-Control]]
 
 #money #philosophy #bitcoin #sovereignty
+
+[[index|← Return to Index]]

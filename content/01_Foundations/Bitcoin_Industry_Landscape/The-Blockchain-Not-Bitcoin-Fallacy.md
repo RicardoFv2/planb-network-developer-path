@@ -27,3 +27,5 @@ Without the native token providing a financial incentive for actors to behave ho
 
 - [[Evolution-of-Terminology]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
+
+[[index|← Return to Index]]

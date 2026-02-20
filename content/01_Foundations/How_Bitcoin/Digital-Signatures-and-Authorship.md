@@ -35,4 +35,6 @@ In Bitcoin, digital signatures are used to prove ownership of coins. When you se
 - [[Hash-Functions-and-Pre-image-Resistance]]
 - [[Blind-Signatures-for-Privacy]]
 
+[[index|← Return to Index]]
+
 #cryptography #signatures #security #identity

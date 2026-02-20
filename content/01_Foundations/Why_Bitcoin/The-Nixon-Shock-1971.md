@@ -34,3 +34,5 @@ Bitcoin is seen by many as the "fix" for 1971. It is the first digital asset tha
 - [[The-Fiat-Life]]
 - [[Fractional-Reserve-Banking]]
 - [[Inelasticity-of-Supply]]
+
+[[index|← Return to Index]]

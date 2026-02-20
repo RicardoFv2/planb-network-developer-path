@@ -34,3 +34,5 @@ In the early 1980s, David Chaum proposed a system for anonymous digital payments
 - [[Hal-Finney-and-RPOW]]
 
 #ecash #history #cryptography #privacy
+
+[[index|← Return to Index]]

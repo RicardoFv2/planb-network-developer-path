@@ -34,4 +34,6 @@ Because Bitcoin's supply is perfectly inelastic, any increase in demand MUST tra
 - [[The-Sigma-Equation-Halving]]
 - [[Inert-and-Malleable-Gold]]
 
+[[index|← Return to Index]]
+
 #economics #scarcity #bitcoin #hardmoney

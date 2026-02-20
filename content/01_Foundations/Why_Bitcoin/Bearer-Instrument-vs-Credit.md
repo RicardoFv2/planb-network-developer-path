@@ -35,3 +35,5 @@ Digital money today is almost entirely **Credit**. Bitcoin represents the **De-v
 - [[The-Fiat-Life]]
 
 #money #philosophy #sovereignty #bitcoin
+
+[[index|← Return to Index]]

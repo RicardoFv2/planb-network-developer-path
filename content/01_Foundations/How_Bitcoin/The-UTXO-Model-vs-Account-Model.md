@@ -36,4 +36,6 @@ tags:
 - [[Digital-Signatures-and-Authorship]]
 - [[The-Timechain]]
 
+[[index|← Return to Index]]
+
 #bitcoin #structure #technology #utxo

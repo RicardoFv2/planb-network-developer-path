@@ -33,4 +33,6 @@ Bitcoin's Proof of Work (PoW) is a mechanism for anchoring digital value in the 
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Time-Preference]]
 
+[[index|← Return to Index]]
+
 #economics #energy #capital #bitcoin
