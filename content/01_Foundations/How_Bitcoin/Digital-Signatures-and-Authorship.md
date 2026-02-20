@@ -9,8 +9,6 @@ tags:
 
 # Digital Signatures and Authorship
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Digital signatures prove that a message was created by a specific sender and has not been altered, providing "unforgeable authorship."
 

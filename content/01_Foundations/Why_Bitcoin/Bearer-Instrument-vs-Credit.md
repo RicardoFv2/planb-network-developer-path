@@ -9,8 +9,6 @@ tags:
 
 # Bearer Instrument vs Credit
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > A bearer instrument is an asset you hold yourself (money), while credit is a promise from a third party (not money).
 

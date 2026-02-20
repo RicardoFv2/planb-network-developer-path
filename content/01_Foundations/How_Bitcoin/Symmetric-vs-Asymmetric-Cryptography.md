@@ -9,8 +9,6 @@ tags:
 
 # Symmetric vs Asymmetric Cryptography
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Symmetric cryptography uses one shared key, while asymmetric cryptography uses a public/private key pair, enabling secure communication over public channels.
 

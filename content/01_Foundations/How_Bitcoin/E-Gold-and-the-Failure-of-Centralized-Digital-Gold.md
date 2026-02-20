@@ -9,8 +9,6 @@ tags:
 
 # E-Gold and the Failure of Centralized Digital Gold
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > E-gold was a successful digital currency backed by physical gold, but its centralized nature made it an easy target for government seizure.
 

@@ -10,8 +10,6 @@ tags:
 
 # The Crypto Era and Legal Arbitrage
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Much of the modern "Crypto" industry uses the guise of technological decentralization to evade financial regulations while behaving like traditional securities.
 
@@ -31,5 +29,3 @@ In these models, the yield or expected return is often driven almost entirely by
 
 - [[Evolution-of-Terminology]]
 - [[Regulatory-Arbitrage-and-Stablecoins]]
-
-#bitcoin #crypto #regulation #arbitrage

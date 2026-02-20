@@ -9,8 +9,6 @@ tags:
 
 # Money as a System of Control
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Digital fiat money is a centralized information system that can be used to monitor, control, and exclude individuals from the economy.
 

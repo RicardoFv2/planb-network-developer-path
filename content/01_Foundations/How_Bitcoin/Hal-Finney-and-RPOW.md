@@ -9,8 +9,6 @@ tags:
 
 # Hal Finney and RPOW (Reusable Proof of Work)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Hal Finney's RPOW made Proof of Work tokens reusable, acting as a direct predecessor to Bitcoin's transaction model.
 

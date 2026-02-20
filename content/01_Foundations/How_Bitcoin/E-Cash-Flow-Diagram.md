@@ -9,8 +9,6 @@ tags:
 
 # E-Cash Flow Diagram
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Traditional eCash involves a three-way interaction where a bank handles the issuance and verification while blind signatures protect user privacy.
 

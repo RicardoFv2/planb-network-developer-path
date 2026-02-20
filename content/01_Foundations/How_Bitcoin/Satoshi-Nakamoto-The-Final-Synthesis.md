@@ -10,8 +10,6 @@ tags:
 
 # Satoshi Nakamoto: The Final Synthesis
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Satoshi Nakamoto's genius was not in inventing new primitives, but in the unique synthesis of pre-existing technologies into a single, trustless system.
 

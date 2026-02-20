@@ -10,8 +10,6 @@ tags:
 
 # Spectrum of Security Models
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > In the modern Bitcoin ecosystem, security is not binary. Each layer solves a specific problem (speed, privacy, costs) by assuming temporal or validation trade-offs against the main chain.
 
@@ -38,5 +36,3 @@ Security in Bitcoin is a spectrum where:
 - [[Custodial-vs-Federated-Models]]
 - [[Layer-2-Security-Models]]
 - [[Base-Layer-Sovereignty]]
-
-#bitcoin #security #tradeoffs #layers

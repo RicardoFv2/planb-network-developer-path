@@ -9,8 +9,6 @@ tags:
 
 # Energy Harvesting and Capital
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Real wealth is stored energy. Capital is the result of harvesting energy today to increase productivity tomorrow.
 

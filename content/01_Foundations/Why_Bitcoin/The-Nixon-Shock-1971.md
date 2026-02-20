@@ -9,8 +9,6 @@ tags:
 
 # The Nixon Shock (1971)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > In 1971, President Nixon "temporarily" suspended the convertibility of the dollar into gold, permanently detaching the global economy from physical reality.
 
@@ -36,5 +34,3 @@ Bitcoin is seen by many as the "fix" for 1971. It is the first digital asset tha
 - [[The-Fiat-Life]]
 - [[Fractional-Reserve-Banking]]
 - [[Inelasticity-of-Supply]]
-
-#history #economics #fiat #gold #bitcoin

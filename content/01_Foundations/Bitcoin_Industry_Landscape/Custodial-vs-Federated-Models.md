@@ -10,8 +10,6 @@ tags:
 
 # Custodial vs Federated Models
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > While full custody relies entirely on a single entity's legal guarantees, federated models distribute trust among a consortium for increased privacy and resilience.
 
@@ -31,5 +29,3 @@ tags:
 
 - [[Spectrum-of-Security-Models]]
 - [[Base-Layer-Sovereignty]]
-
-#bitcoin #custody #federation #security

@@ -10,8 +10,6 @@ tags:
 
 # Bitcoin Business Models
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Building a profitable company purely focused on Bitcoin is difficult due to its disintermediating nature. Viable business models generally fall into six "Hard" categories, rejecting the "Easy" but harmful paths.
 
@@ -42,5 +40,3 @@ Giacomo Zucco identifies six main patterns for genuine entrepreneurship built _a
 
 - [[Infrastructure-Business-Models]]
 - [[Monetizing-Decentralization]]
-
-#bitcoin #business #economics #entrepreneurship

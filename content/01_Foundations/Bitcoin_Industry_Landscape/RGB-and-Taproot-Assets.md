@@ -10,8 +10,6 @@ tags:
 
 # RGB and Taproot Assets
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > RGB and Taproot Assets are client-side validation protocols that allow real-world assets to be represented on Bitcoin without bloating the main chain.
 
@@ -29,5 +27,3 @@ Historically, attempting to issue tokens on Bitcoin (like Colored Coins or Omni 
 
 - [[Bitcoin-Network-Layers]]
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
-
-#bitcoin #assets #rgb #taproot

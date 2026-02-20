@@ -10,8 +10,6 @@ tags:
 
 # Layer 2 Security Models
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Layer 2 solutions (Statechains, Lightning, Arks) eliminate direct custodial risk but introduce new operational requirements like active monitoring or temporary reliance on a provider.
 
@@ -40,5 +38,3 @@ tags:
 - [[Spectrum-of-Security-Models]]
 - [[Lightning-Network-Payment-Channels]]
 - [[Ark-Lift-Off-Payments]]
-
-#bitcoin #layer2 #lightning #ark #security

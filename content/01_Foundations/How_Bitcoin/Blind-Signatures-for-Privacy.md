@@ -9,8 +9,6 @@ tags:
 
 # Blind Signatures for Privacy
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Blind signatures allow an authority to sign a piece of data without seeing its content, enabling untraceable digital cash.
 

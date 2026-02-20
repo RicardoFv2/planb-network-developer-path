@@ -10,8 +10,6 @@ tags:
 
 # Mining Hardware Evolution
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Bitcoin mining has evolved from hobbyist CPU mining to industrial-scale ASICs, increasing network security and efficiency.
 

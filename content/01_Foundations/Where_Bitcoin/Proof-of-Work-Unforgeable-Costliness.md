@@ -10,8 +10,6 @@ tags:
 
 # Proof of Work (Unforgeable Costliness)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Proof of Work (PoW) is the mechanism that binds digital information to physical reality through energy expenditure, making history immutable.
 
@@ -38,5 +36,3 @@ It enables the "Timechain" to maintain a single, agreed-upon history. To change 
 - [[The-Timechain]]
 - [[Mining-Economics-Subsidy-vs-Fees]]
 - [[Hash-Functions-and-Pre-image-Resistance]]
-
-#bitcoin #mining #pow #security #consensus

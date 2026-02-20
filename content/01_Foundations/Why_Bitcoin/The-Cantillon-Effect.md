@@ -9,8 +9,6 @@ tags:
 
 # The Cantillon Effect
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > New money doesn't enter the economy all at once. Those who get it first profit at the expense of those who get it last.
 
@@ -34,5 +32,3 @@ Imagine a pot of honey being poured into the center of a table. The honey is hig
 - [[Roman-Currency-Debasement]]
 - [[The-Fiat-Life]]
 - [[Shrinkflation-and-Skimpflation]]
-
-#economics #inflation #inequality #fiat #bitcoin

@@ -9,8 +9,6 @@ tags:
 
 # De-virtualization of Money
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Bitcoin is the "de-virtualization" of money, bringing the properties of hard, physical assets into the digital world.
 

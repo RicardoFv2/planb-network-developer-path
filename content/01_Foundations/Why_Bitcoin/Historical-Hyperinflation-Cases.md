@@ -9,8 +9,6 @@ tags:
 
 # Historical Hyperinflation Cases
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Hyperinflation is the final stage of a failure of a fiat currency, where money loses its value so quickly that society breaks down.
 

@@ -9,8 +9,6 @@ tags:
 
 # The Skinny Pirate Analogy
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Cryptography is a shield that allows individuals to protect their wealth even against those with superior physical force.
 
@@ -33,5 +31,3 @@ For the first time in history, cryptography gives the "Skinny Pirate" a defensiv
 - [[Crypto-Anarchy-Ideology]]
 - [[Money-as-a-System-of-Control]]
 - [[The-Cypherpunk-Solution]]
-
-#philosophy #cryptography #privacy #security #bitcoin

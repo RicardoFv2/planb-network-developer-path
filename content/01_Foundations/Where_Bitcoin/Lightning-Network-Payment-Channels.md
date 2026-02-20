@@ -10,8 +10,6 @@ tags:
 
 # Lightning Network (Payment Channels)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The Lightning Network enables instant Bitcoin payments through off-chain payment channels, settling only the net result on the Timechain.
 
@@ -41,5 +39,3 @@ The Lightning Network is a Layer 2 scaling solution built on top of Bitcoin. It 
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[Ark-Lift-Off-Payments]]
 - [[The-Timechain]]
-
-#bitcoin #lightning #scaling #layer2 #payments

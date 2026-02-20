@@ -11,8 +11,6 @@ tags:
 
 # Base Layer Sovereignty
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The base layer provides the highest level of security, immutability, and sovereignty, but it is the slowest and most expensive method of interacting with Bitcoin.
 
@@ -37,5 +35,3 @@ This model is the gold standard for "Not Your Keys, Not Your Coins." It provides
 
 - [[Spectrum-of-Security-Models]]
 - [[The-Timechain]]
-
-#bitcoin #sovereignty #node #coldstorage #security

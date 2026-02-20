@@ -9,8 +9,6 @@ tags:
 
 # Roman Currency Debasement
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The Roman Empire collapsed partly because it destroyed its own money (the Denarius) to fund unsustainable spending.
 

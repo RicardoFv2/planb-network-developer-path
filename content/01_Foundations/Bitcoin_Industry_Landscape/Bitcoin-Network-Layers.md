@@ -10,8 +10,6 @@ tags:
 
 # Bitcoin Network Layers
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Bitcoin is evolving from a simple monolithic ledger into a layered network stack, similar to the Internet model (IP -> TCP -> HTTP).
 
@@ -28,5 +26,3 @@ To scale globally without sacrificing decentralization at the base layer, the Bi
 
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[RGB-and-Taproot-Assets]]
-
-#bitcoin #architecture #scaling #layers #nostr

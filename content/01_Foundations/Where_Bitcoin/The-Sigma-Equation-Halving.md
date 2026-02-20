@@ -10,8 +10,6 @@ tags:
 
 # The Sigma Equation (Halving)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The Sigma Equation defines Bitcoin's absolute scarcity: a hard cap of 21 million coins, governed by a supply schedule that halves every 4 years.
 
@@ -42,5 +40,3 @@ Unlike fiat currencies, which can be printed at will, Bitcoin has a fixed supply
 - [[Mining-Economics-Subsidy-vs-Fees]]
 - [[Stock-to-Flow-Ratio]]
 - [[The-Fiat-Trap]]
-
-#bitcoin #economics #halving #scarcity #monetarypolicy

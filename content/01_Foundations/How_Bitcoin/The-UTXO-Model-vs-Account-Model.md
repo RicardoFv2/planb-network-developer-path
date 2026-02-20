@@ -9,8 +9,6 @@ tags:
 
 # The UTXO Model vs Account Model
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Bitcoin doesn't have "accounts." It tracks ownership through UTXOs (Unspent Transaction Outputs), which are like digital gold nuggets that must be spent in their entirety.
 

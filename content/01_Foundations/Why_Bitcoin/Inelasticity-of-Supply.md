@@ -9,8 +9,6 @@ tags:
 
 # Inelasticity of Supply
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Inelastic supply means that no matter how much the price rises, you cannot create more of the asset easily.
 

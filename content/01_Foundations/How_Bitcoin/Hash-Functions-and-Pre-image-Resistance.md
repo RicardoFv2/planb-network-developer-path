@@ -9,8 +9,6 @@ tags:
 
 # Hash Functions and Pre-image Resistance
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > A hash function is a one-way mathematical function that turns any input into a fixed-length fingerprint, essential for Bitcoin's security.
 

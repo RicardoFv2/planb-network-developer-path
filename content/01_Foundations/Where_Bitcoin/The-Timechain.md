@@ -9,8 +9,6 @@ tags:
 
 # The Timechain
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Bitcoin is a decentralized clock (Timechain) that establishes a verifiable chronological order of events without a central authority.
 
@@ -35,5 +33,3 @@ Imagine a kidnapper holding a newspaper in a photo. The newspaper proves the pho
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Merkle-Trees-and-Timestamping]]
 - [[The-Double-Spending-Problem]]
-
-#bitcoin #timechain #consensus #structure

@@ -9,8 +9,6 @@ tags:
 
 # Shrinkflation and Skimpflation
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > When a currency loses value, companies hide price increases by reducing the size (Shrinkflation) or quality (Skimpflation) of their products.
 
@@ -35,5 +33,3 @@ Both phenomena are symptoms of a **debased currency**. Because the money is wort
 - [[The-Cantillon-Effect]]
 - [[Historical-Hyperinflation-Cases]]
 - [[The-Fiat-Life]]
-
-#economics #inflation #basics #consumerism

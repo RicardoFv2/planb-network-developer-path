@@ -9,8 +9,6 @@ tags:
 
 # The Double Spending Problem
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The double-spending problem is the risk that a digital currency can be spent twice. Bitcoin solves this without a central authority using the Timechain.
 

@@ -9,8 +9,6 @@ tags:
 
 # Fractional Reserve Banking
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Fractional Reserve Banking is a system where banks keep only a small fraction of their deposits in reserve and lend out the rest, creating systemic instability.
 

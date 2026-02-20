@@ -9,8 +9,6 @@ tags:
 
 # Hashcash and Linear Cost
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Hashcash introduced Proof of Work to create "digital scarcity" of CPU time, making it expensive to send bulk spam emails.
 

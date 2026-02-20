@@ -10,8 +10,6 @@ tags:
 
 # Mining Economics (Subsidy vs Fees)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > As new coin issuance (subsidy) decreases, Bitcoin's security model transitions to a fee-based market where users compete for block space.
 
@@ -35,5 +33,3 @@ Giacomo uses the analogy of **Gold Dust**: Bitcoins are created as a "subsidy" (
 - [[The-Sigma-Equation-Halving]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
-
-#bitcoin #mining #economics #fees #consensus

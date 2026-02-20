@@ -10,8 +10,6 @@ tags:
 
 # The Blockchain Not Bitcoin Fallacy
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > A blockchain without a robust incentive token (like Bitcoin) has no real technological utility compared to a traditional database.
 
@@ -29,5 +27,3 @@ Without the native token providing a financial incentive for actors to behave ho
 
 - [[Evolution-of-Terminology]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
-
-#bitcoin #blockchain #incentives #technology

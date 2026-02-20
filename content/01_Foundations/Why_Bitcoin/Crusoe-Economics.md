@@ -9,8 +9,6 @@ tags:
 
 # Crusoe Economics
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Saving is the prerequisite for innovation and civilization.
 

@@ -9,8 +9,6 @@ tags:
 
 # David Chaum and eCash
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > David Chaum's eCash was the first practical digital cash system, offering anonymity but still relying on a centralized bank.
 

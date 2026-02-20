@@ -9,8 +9,6 @@ tags:
 
 # The Scalability Trilemma (Bathtub Curve)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Bitcoin prioritizes decentralization and security over base-layer speed, scaling through layers rather than compromising its core properties.
 
@@ -38,5 +36,3 @@ Imagine a **Bathtub**:
 - [[The-Timechain]]
 - [[Lightning-Network-Payment-Channels]]
 - [[Ark-Lift-Off-Payments]]
-
-#bitcoin #scaling #trilemma #decentralization #blockchain

@@ -10,8 +10,6 @@ tags:
 
 # Evolution of Terminology: Blockchain and Crypto
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The language used to describe Bitcoin has undergone attempts at co-optation and redefinition over time, primarily driven by commercial and marketing incentives.
 
@@ -30,5 +28,3 @@ tags:
 
 - [[The-Blockchain-Not-Bitcoin-Fallacy]]
 - [[The-Crypto-Era-and-Legal-Arbitrage]]
-
-#bitcoin #history #terminology #blockchain #crypto

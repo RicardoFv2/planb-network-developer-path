@@ -9,8 +9,6 @@ tags:
 
 # Gresham's Law (Thiers' Law)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > "Bad money drives out good." People hoard assets they believe will appreciate (Bitcoin) and spend those they believe will lose value (Fiat).
 
@@ -32,5 +30,3 @@ Imagine you have a basket of fresh apples (Bitcoin) and a basket of rotting appl
 - [[Sound-Money-Principles-MOC]]
 - [[The-Roman-Debasement-Lesson]]
 - [[Power-Law-Adoption]]
-
-#bitcoin #economics #monetaryhistory #greshamslaw

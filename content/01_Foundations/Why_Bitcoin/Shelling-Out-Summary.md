@@ -9,8 +9,6 @@ tags:
 
 # Shelling Out (Nick Szabo Summary)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Before metal coins, humans used "collectibles" like sea shells and beads as stores of value to solve the problem of trust and time-traveling wealth.
 
@@ -37,5 +35,3 @@ Bitcoin is the digital evolution of these early collectibles. It is the first "d
 - [[Sound-Money-Principles-MOC]]
 - [[Energy-Harvesting-and-Capital]]
 - [[Inert-and-Malleable-Gold]]
-
-#history #economics #collectibles #bitcoin #nickszabo

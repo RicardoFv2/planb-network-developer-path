@@ -9,8 +9,6 @@ tags:
 
 # Time Preference
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Time preference is the ratio of valuation between a good today and the same good in the future.
 
@@ -35,5 +33,3 @@ Low time preference allows for **Saving**, which allows for **Innovation**, whic
 - [[Crusoe-Economics]]
 - [[The-Fiat-Life]]
 - [[Energy-Harvesting-and-Capital]]
-
-#economics #philosophy #basics #civilization #bitcoin

@@ -9,8 +9,6 @@ tags:
 
 # Stock-to-Flow Ratio
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > The Stock-to-Flow (S2F) ratio measures how hard it is to increase the supply of an asset. A higher S2F means the asset is harder "money."
 
@@ -35,5 +33,3 @@ Bitcoin is the first asset in history to have a mathematically fixed supply sche
 - [[Inelasticity-of-Supply]]
 - [[The-Sigma-Equation-Halving]]
 - [[Inert-and-Malleable-Gold]]
-
-#economics #scarcity #bitcoin #gold #hardmoney

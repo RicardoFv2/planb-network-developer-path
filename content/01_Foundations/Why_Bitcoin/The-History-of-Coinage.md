@@ -9,8 +9,6 @@ tags:
 
 # The History of Coinage
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Standardized coins solved the problem of weighing gold for every trade but introduced a new "single point of failure": trust in the minter.
 
@@ -36,5 +34,3 @@ Bitcoin solves this "trap" by returning to the security of raw gold (Proof of Wo
 - [[Roman-Currency-Debasement]]
 - [[Positive-Sum-Games]]
 - [[Sound-Money-Principles-MOC]]
-
-#history #money #economics #gold #bitcoin

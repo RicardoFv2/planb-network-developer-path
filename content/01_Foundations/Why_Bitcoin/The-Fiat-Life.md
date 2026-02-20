@@ -9,8 +9,6 @@ tags:
 
 # The Fiat Life
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Fast, debasing money leads to a society focused on short-term consumption, debt, and decaying quality.
 
@@ -34,5 +32,3 @@ Bitcoin offers a return to **Low Time Preference**. When you hold a currency tha
 - [[Time-Preference]]
 - [[The-Nixon-Shock-1971]]
 - [[Shrinkflation-and-Skimpflation]]
-
-#philosophy #economics #society #lifestyle #bitcoin

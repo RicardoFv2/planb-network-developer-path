@@ -10,8 +10,6 @@ tags:
 
 # Infrastructure Business Models
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Operating routing nodes, mining pools, and developing specialized hardware represent hard but genuine business models that provide essential infrastructure for the Bitcoin network.
 
@@ -34,5 +32,3 @@ Software in the Bitcoin ecosystem is typically open-source and expected to be fr
 ## Related Notes
 
 - [[Bitcoin-Business-Models]]
-
-#bitcoin #business #infrastructure #hardware

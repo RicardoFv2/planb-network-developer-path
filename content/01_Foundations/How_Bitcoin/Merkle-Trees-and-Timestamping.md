@@ -9,8 +9,6 @@ tags:
 
 # Merkle Trees and Timestamping
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Merkle Trees allow efficient verification of large datasets, while timestamping chains create an immutable history of events.
 

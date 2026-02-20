@@ -9,8 +9,6 @@ tags:
 
 # Crypto-Anarchy Ideology
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Crypto-anarchy is the use of cryptography to bypass government control and create a realm of individual sovereignty in the digital age.
 

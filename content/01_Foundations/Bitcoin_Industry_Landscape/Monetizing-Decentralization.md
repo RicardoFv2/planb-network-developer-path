@@ -10,8 +10,6 @@ tags:
 
 # Monetizing Decentralization
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Attempting to apply the disruptive, rapid-growth Silicon Valley playbook to Bitcoin usually fails because Bitcoin enforces decentralization and stability over monopolistic concentration.
 
@@ -37,5 +35,3 @@ Therefore, you monetize in Bitcoin by providing tangible goods (hardware), consu
 ## Related Notes
 
 - [[Bitcoin-Business-Models]]
-
-#bitcoin #web2 #economics #siliconvalley

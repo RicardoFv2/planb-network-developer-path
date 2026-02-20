@@ -10,8 +10,6 @@ tags:
 
 # Regulatory Arbitrage (Stablecoins)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Stablecoins (like USDT) allow users to bypass local capital controls, proving that the demand for borderless, censorship-resistant value transfer exists even for fiat assets.
 
@@ -32,5 +30,3 @@ Stablecoins allow users in countries with strict capital controls or failing cur
 - [[Greshams-Law]]
 - [[Money-as-a-Surrounding-Tool]]
 - [[The-Cypherpunk-Solution]]
-
-#bitcoin #stablecoins #regulation #arbitrage #freedom

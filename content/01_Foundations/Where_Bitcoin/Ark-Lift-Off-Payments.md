@@ -10,8 +10,6 @@ tags:
 
 # Ark (Lift-Off Payments)
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Ark is a trustless, off-chain second layer that allows for private payments without the liquidity management issues of Lightning channels.
 
@@ -38,5 +36,3 @@ If Lightning is like a network of pipes (channels) that you must maintain, Ark i
 - [[Lightning-Network-Payment-Channels]]
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[The-Timechain]]
-
-#bitcoin #ark #scaling #layer2 #innovation

@@ -9,8 +9,6 @@ tags:
 
 # Positive-Sum Games
 
-[[index|← Return to Index]]
-
 > [!abstract] TL;DR
 > Trade is a positive-sum game where both parties benefit, creating wealth out of voluntary cooperation.
 
