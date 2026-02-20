@@ -7,6 +7,7 @@
 - [ ] [[01_Foundations/01. Why Bitcoin - Deep Dive Summary|01. Why Bitcoin (DEEP DIVE Summary)]]
 - [ ] [[01_Foundations/02. How Bitcoin - Deep Dive Summary|02. How Bitcoin (DEEP DIVE Summary)]]
 - [ ] [[01_Foundations/03. Where Bitcoin - Deep Dive Summary|03. Where Bitcoin (DEEP DIVE Summary)]]
+- [ ] [[01_Foundations/04. Bitcoin Industry Landscape - Deep Dive Summary|04. Bitcoin Industry Landscape (DEEP DIVE Summary)]]
 
 ## 🏛️ Foundations: Why Bitcoin (Lecture 01)
 
@@ -95,6 +96,32 @@
 - [ ] [[01_Foundations/Where_Bitcoin/Power-Law-Adoption|Power Law (Adoption)]]
 - [ ] [[01_Foundations/Where_Bitcoin/Greshams-Law|Gresham's Law (Thiers' Law)]]
 - [ ] [[01_Foundations/Where_Bitcoin/Regulatory-Arbitrage-and-Stablecoins|Regulatory Arbitrage (Stablecoins)]]
+
+## 🏢 Foundations: Bitcoin Industry Landscape (Lecture 04)
+
+### Terminology & Evolution
+
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Evolution-of-Terminology|Evolution of Terminology]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/The-Blockchain-Not-Bitcoin-Fallacy|The Blockchain Not Bitcoin Fallacy]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/The-Crypto-Era-and-Legal-Arbitrage|The Crypto Era and Legal Arbitrage]]
+
+### Security Models & Sovereignty
+
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Spectrum-of-Security-Models|Spectrum of Security Models]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Custodial-vs-Federated-Models|Custodial vs Federated Models]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Layer-2-Security-Models|Layer 2 Security Models]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Base-Layer-Sovereignty|Base Layer Sovereignty]]
+
+### Network Architecture
+
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Bitcoin-Network-Layers|Bitcoin Network Layers]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/RGB-and-Taproot-Assets|RGB and Taproot Assets]]
+
+### Business & Monetization
+
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Bitcoin-Business-Models|Bitcoin Business Models]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Infrastructure-Business-Models|Infrastructure Business Models]]
+- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Monetizing-Decentralization|Monetizing Decentralization]]
 
 ## 🛠️ Tools & Resources
 
