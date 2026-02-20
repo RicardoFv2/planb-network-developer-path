@@ -97,6 +97,11 @@
 - [ ] [[01_Foundations/Where_Bitcoin/Greshams-Law|Gresham's Law (Thiers' Law)]]
 - [ ] [[01_Foundations/Where_Bitcoin/Regulatory-Arbitrage-and-Stablecoins|Regulatory Arbitrage (Stablecoins)]]
 
+### Visuals & Resources
+
+- [ ] [[01_Foundations/Review/Class-03-Flashcards|Class 03 Flashcards]]
+- [ ] [[Resources/Lecture-03-Resources|Lecture 03 Resources]]
+
 ## 🏢 Foundations: Bitcoin Industry Landscape (Lecture 04)
 
 ### Terminology & Evolution
@@ -123,10 +128,20 @@
 - [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Infrastructure-Business-Models|Infrastructure Business Models]]
 - [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Monetizing-Decentralization|Monetizing Decentralization]]
 
+### Visuals & Resources
+
+- [ ] [[01_Foundations/Review/Class-04-Flashcards|Class 04 Flashcards]]
+
 ## 🛠️ Tools & Resources
 
 - [ ] [[Recursos y Cursos|📚 Plan B Network - General Resources & Books]]
 - [ ] [[Resources/Glossary-of-Terms|Glossary of Terms]]
+
+### 🧠 Review & Flashcards
+
+- [ ] [[01_Foundations/Review/Class-01-Flashcards|Class 01 Flashcards]]
+- [ ] [[01_Foundations/Review/Class-03-Flashcards|Class 03 Flashcards]]
+- [ ] [[01_Foundations/Review/Class-04-Flashcards|Class 04 Flashcards]]
 
 ---
 
