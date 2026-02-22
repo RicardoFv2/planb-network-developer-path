@@ -7,6 +7,8 @@ tags:
   - mining
 ---
 
+[[index|← Return to Index]]
+
 # Hashcash and Linear Cost
 
 > [!abstract] TL;DR
@@ -33,5 +35,3 @@ Hashcash didn't solve the "double-spend" problem (you could reuse a stamp if the
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
 
 #history #pow #mining #economics
-
-[[index|← Return to Index]]

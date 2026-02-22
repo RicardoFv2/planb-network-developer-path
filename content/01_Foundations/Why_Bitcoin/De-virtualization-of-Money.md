@@ -7,6 +7,8 @@ tags:
   - bitcoin
 ---
 
+[[index|← Return to Index]]
+
 # De-virtualization of Money
 
 > [!abstract] TL;DR
@@ -39,5 +41,3 @@ Bitcoin uses cryptography to regain these physical properties:
 - [[Money-as-a-System-of-Control]]
 
 #money #philosophy #bitcoin #sovereignty
-
-[[index|← Return to Index]]

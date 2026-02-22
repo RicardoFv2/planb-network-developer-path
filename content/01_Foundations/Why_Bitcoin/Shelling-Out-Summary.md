@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Shelling Out (Nick Szabo Summary)"
 description: "The pre-history of money and the evolution of collectibles as stores of value."

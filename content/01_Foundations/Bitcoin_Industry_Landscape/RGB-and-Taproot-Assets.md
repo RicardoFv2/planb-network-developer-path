@@ -8,6 +8,8 @@ tags:
   - assets
 ---
 
+[[index|← Return to Index]]
+
 # RGB and Taproot Assets
 
 > [!abstract] TL;DR
@@ -27,5 +29,3 @@ Historically, attempting to issue tokens on Bitcoin (like Colored Coins or Omni 
 
 - [[Bitcoin-Network-Layers]]
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
-
-[[index|← Return to Index]]

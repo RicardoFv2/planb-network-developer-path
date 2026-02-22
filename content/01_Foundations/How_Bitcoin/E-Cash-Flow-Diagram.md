@@ -7,6 +7,8 @@ tags:
   - history
 ---
 
+[[index|← Return to Index]]
+
 # E-Cash Flow Diagram
 
 > [!abstract] TL;DR
@@ -39,5 +41,3 @@ Bitcoin removed the "Bank" in the middle. Instead of a central server checking f
 - [[The-Double-Spending-Problem]]
 
 #ecash #economics #history #centralization
-
-[[index|← Return to Index]]

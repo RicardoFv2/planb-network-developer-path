@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Flashcards: Bitcoin Industry Landscape (Class 4)
 
 > Use these for Active Recall. Try to answer before looking at the solution.
@@ -131,5 +133,3 @@
 **A:** Because they want the efficiency gains of distributed ledgers while maintaining the ability to control, censor, and inflate the monetary unit—something they cannot do with the decentralized, immutable asset that is Bitcoin.
 
 ---
-
-[[index|Return to Index]]

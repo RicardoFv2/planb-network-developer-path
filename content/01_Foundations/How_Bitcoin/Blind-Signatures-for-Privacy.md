@@ -7,6 +7,8 @@ tags:
   - ecash
 ---
 
+[[index|← Return to Index]]
+
 # Blind Signatures for Privacy
 
 > [!abstract] TL;DR
@@ -29,7 +31,4 @@ Imagine a user puts a document and a piece of carbon paper inside an envelope. T
 - [[David-Chaum-and-eCash]]
 - [[Digital-Signatures-and-Authorship]]
 - [[Symmetric-vs-Asymmetric-Cryptography]]
-
-[[index|← Return to Index]]
-
 #cryptography #privacy #ecash #history

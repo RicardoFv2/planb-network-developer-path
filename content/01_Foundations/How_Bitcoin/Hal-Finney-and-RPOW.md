@@ -7,6 +7,8 @@ tags:
   - cypherpunks
 ---
 
+[[index|← Return to Index]]
+
 # Hal Finney and RPOW (Reusable Proof of Work)
 
 > [!abstract] TL;DR
@@ -33,5 +35,3 @@ RPOW was the missing link between **Hashcash** (burning energy) and **Bitcoin** 
 - [[The-Double-Spending-Problem]]
 
 #history #pow #cypherpunks #innovation
-
-[[index|← Return to Index]]

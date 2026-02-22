@@ -8,6 +8,8 @@ tags:
   - scarcity
 ---
 
+[[index|← Return to Index]]
+
 # The Sigma Equation (Halving)
 
 > [!abstract] TL;DR
@@ -40,5 +42,3 @@ Unlike fiat currencies, which can be printed at will, Bitcoin has a fixed supply
 - [[Mining-Economics-Subsidy-vs-Fees]]
 - [[Stock-to-Flow-Ratio]]
 - [[The-Fiat-Trap]]
-
-[[index|← Return to Index]]

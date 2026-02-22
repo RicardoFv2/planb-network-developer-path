@@ -8,6 +8,8 @@ tags:
   - custody
 ---
 
+[[index|← Return to Index]]
+
 # Custodial vs Federated Models
 
 > [!abstract] TL;DR
@@ -29,5 +31,3 @@ tags:
 
 - [[Spectrum-of-Security-Models]]
 - [[Base-Layer-Sovereignty]]
-
-[[index|← Return to Index]]

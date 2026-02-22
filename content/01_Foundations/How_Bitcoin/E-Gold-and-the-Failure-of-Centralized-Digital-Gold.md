@@ -7,6 +7,8 @@ tags:
   - centralization
 ---
 
+[[index|← Return to Index]]
+
 # E-Gold and the Failure of Centralized Digital Gold
 
 > [!abstract] TL;DR
@@ -37,5 +39,3 @@ Founded in 1996, **e-gold** was a digital currency that allowed users to transfe
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
 
 #history #digitalgold #economics #centralization
-
-[[index|← Return to Index]]

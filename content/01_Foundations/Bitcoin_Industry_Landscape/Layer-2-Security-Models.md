@@ -8,6 +8,8 @@ tags:
   - layer2
 ---
 
+[[index|← Return to Index]]
+
 # Layer 2 Security Models
 
 > [!abstract] TL;DR
@@ -38,5 +40,3 @@ tags:
 - [[Spectrum-of-Security-Models]]
 - [[Lightning-Network-Payment-Channels]]
 - [[Ark-Lift-Off-Payments]]
-
-[[index|← Return to Index]]

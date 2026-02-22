@@ -7,6 +7,8 @@ tags:
   - decentralization
 ---
 
+[[index|← Return to Index]]
+
 # The Scalability Trilemma (Bathtub Curve)
 
 > [!abstract] TL;DR
@@ -36,5 +38,3 @@ Imagine a **Bathtub**:
 - [[The-Timechain]]
 - [[Lightning-Network-Payment-Channels]]
 - [[Ark-Lift-Off-Payments]]
-
-[[index|← Return to Index]]

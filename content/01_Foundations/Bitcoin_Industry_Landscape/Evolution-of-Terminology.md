@@ -8,6 +8,8 @@ tags:
   - terminology
 ---
 
+[[index|← Return to Index]]
+
 # Evolution of Terminology: Blockchain and Crypto
 
 > [!abstract] TL;DR
@@ -28,5 +30,3 @@ tags:
 
 - [[The-Blockchain-Not-Bitcoin-Fallacy]]
 - [[The-Crypto-Era-and-Legal-Arbitrage]]
-
-[[index|← Return to Index]]

@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Flashcards: Where Bitcoin (Class 3)
 
 > Use these for Active Recall. Try to answer before looking at the solution.
@@ -123,5 +125,3 @@
 **A:** A **Virtual UTXO**. It represents funds held off-chain within the Ark layer. Users can transfer these VTXOs instantly and privately without the need to manage individual Lightning payment channels.
 
 ---
-
-[[index|Return to Index]]

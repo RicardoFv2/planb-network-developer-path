@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Crusoe Economics"
 description: "A simple economic model to understand first principles of saving and capital accumulation."
@@ -36,7 +38,4 @@ Saving (sacrifice of current consumption) is the only way to build **Capital**. 
 - [[Time-Preference]]
 - [[Energy-Harvesting-and-Capital]]
 - [[Positive-Sum-Games]]
-
-[[index|← Return to Index]]
-
 #economics #philosophy #civilization #saving

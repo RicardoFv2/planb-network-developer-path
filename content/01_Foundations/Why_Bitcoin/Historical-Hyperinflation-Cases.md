@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Historical Hyperinflation Cases"
 description: "Learning from the destruction of purchasing power throughout history."
@@ -37,5 +39,3 @@ Hyperinflation proves that "money" is not a gift from the government; it is an e
 - [[Inelasticity-of-Supply]]
 
 #history #economics #inflation #gold #bitcoin
-
-[[index|← Return to Index]]

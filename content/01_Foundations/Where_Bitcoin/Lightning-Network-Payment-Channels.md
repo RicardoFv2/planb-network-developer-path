@@ -8,6 +8,8 @@ tags:
   - layer2
 ---
 
+[[index|← Return to Index]]
+
 # Lightning Network (Payment Channels)
 
 > [!abstract] TL;DR
@@ -39,5 +41,3 @@ The Lightning Network is a Layer 2 scaling solution built on top of Bitcoin. It 
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[Ark-Lift-Off-Payments]]
 - [[The-Timechain]]
-
-[[index|← Return to Index]]

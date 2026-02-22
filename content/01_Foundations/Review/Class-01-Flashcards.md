@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Flashcards: Why Bitcoin (Class 1)
 
 > Use these for Active Recall. Try to answer before looking at the solution.
@@ -51,5 +53,3 @@
 **A:** It shows that physical force (The Big Pirate) can be defeated by math (The Cipher). If a map is encrypted or held in your head, violence cannot take your wealth.
 
 ---
-
-[[index|Return to Index]]

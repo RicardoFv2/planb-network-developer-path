@@ -8,6 +8,8 @@ tags:
   - incentives
 ---
 
+[[index|← Return to Index]]
+
 # The Blockchain Not Bitcoin Fallacy
 
 > [!abstract] TL;DR
@@ -27,5 +29,3 @@ Without the native token providing a financial incentive for actors to behave ho
 
 - [[Evolution-of-Terminology]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
-
-[[index|← Return to Index]]

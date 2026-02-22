@@ -7,6 +7,8 @@ tags:
   - basics
 ---
 
+[[index|← Return to Index]]
+
 # Time Preference
 
 > [!abstract] TL;DR
@@ -33,5 +35,3 @@ Low time preference allows for **Saving**, which allows for **Innovation**, whic
 - [[Crusoe-Economics]]
 - [[The-Fiat-Life]]
 - [[Energy-Harvesting-and-Capital]]
-
-[[index|← Return to Index]]

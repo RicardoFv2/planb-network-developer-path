@@ -8,6 +8,8 @@ tags:
   - freedom
 ---
 
+[[index|← Return to Index]]
+
 # Regulatory Arbitrage (Stablecoins)
 
 > [!abstract] TL;DR
@@ -30,5 +32,3 @@ Stablecoins allow users in countries with strict capital controls or failing cur
 - [[Greshams-Law]]
 - [[Money-as-a-Surrounding-Tool]]
 - [[The-Cypherpunk-Solution]]
-
-[[index|← Return to Index]]

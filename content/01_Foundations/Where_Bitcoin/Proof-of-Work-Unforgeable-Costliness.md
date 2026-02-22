@@ -8,6 +8,8 @@ tags:
   - security
 ---
 
+[[index|← Return to Index]]
+
 # Proof of Work (Unforgeable Costliness)
 
 > [!abstract] TL;DR
@@ -36,5 +38,3 @@ It enables the "Timechain" to maintain a single, agreed-upon history. To change 
 - [[The-Timechain]]
 - [[Mining-Economics-Subsidy-vs-Fees]]
 - [[Hash-Functions-and-Pre-image-Resistance]]
-
-[[index|← Return to Index]]

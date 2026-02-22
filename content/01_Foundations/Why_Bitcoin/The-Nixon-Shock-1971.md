@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "The Nixon Shock (1971)"
 description: "The historical moment the world abandoned the gold standard for pure fiat."
@@ -34,5 +36,3 @@ Bitcoin is seen by many as the "fix" for 1971. It is the first digital asset tha
 - [[The-Fiat-Life]]
 - [[Fractional-Reserve-Banking]]
 - [[Inelasticity-of-Supply]]
-
-[[index|← Return to Index]]

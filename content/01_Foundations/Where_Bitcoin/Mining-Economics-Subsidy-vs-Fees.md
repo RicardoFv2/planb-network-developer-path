@@ -8,6 +8,8 @@ tags:
   - fees
 ---
 
+[[index|← Return to Index]]
+
 # Mining Economics (Subsidy vs Fees)
 
 > [!abstract] TL;DR
@@ -33,5 +35,3 @@ Giacomo uses the analogy of **Gold Dust**: Bitcoins are created as a "subsidy" (
 - [[The-Sigma-Equation-Halving]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
-
-[[index|← Return to Index]]

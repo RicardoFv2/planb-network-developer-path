@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Lecture 02 - Recommended Resources
 
 ## Core Books mentioned by Zucco

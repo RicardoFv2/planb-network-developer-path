@@ -8,6 +8,8 @@ tags:
   - web2
 ---
 
+[[index|← Return to Index]]
+
 # Monetizing Decentralization
 
 > [!abstract] TL;DR
@@ -35,5 +37,3 @@ Therefore, you monetize in Bitcoin by providing tangible goods (hardware), consu
 ## Related Notes
 
 - [[Bitcoin-Business-Models]]
-
-[[index|← Return to Index]]

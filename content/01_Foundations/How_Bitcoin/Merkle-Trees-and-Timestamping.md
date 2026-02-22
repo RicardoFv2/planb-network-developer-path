@@ -7,6 +7,8 @@ tags:
   - history
 ---
 
+[[index|← Return to Index]]
+
 # Merkle Trees and Timestamping
 
 > [!abstract] TL;DR
@@ -38,7 +40,4 @@ Bitcoin replaced the _New York Times_ with the **Proof of Work**. Instead of tru
 - [[Hash-Functions-and-Pre-image-Resistance]]
 - [[The-Timechain]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
-
-[[index|← Return to Index]]
-
 #cryptography #history #timechain #merkletrees

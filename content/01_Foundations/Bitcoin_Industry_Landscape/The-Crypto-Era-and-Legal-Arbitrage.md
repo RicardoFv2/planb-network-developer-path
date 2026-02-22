@@ -8,6 +8,8 @@ tags:
   - regulation
 ---
 
+[[index|← Return to Index]]
+
 # The Crypto Era and Legal Arbitrage
 
 > [!abstract] TL;DR
@@ -29,5 +31,3 @@ In these models, the yield or expected return is often driven almost entirely by
 
 - [[Evolution-of-Terminology]]
 - [[Regulatory-Arbitrage-and-Stablecoins]]
-
-[[index|← Return to Index]]

@@ -8,6 +8,8 @@ tags:
   - innovation
 ---
 
+[[index|← Return to Index]]
+
 # Satoshi Nakamoto: The Final Synthesis
 
 > [!abstract] TL;DR
@@ -35,7 +37,4 @@ By remaining anonymous and eventually disappearing, Satoshi ensured that Bitcoin
 - [[The-Timechain]]
 - [[The-Double-Spending-Problem]]
 - [[Crypto-Anarchy-Ideology]]
-
-[[index|← Return to Index]]
-
 #bitcoin #satoshi #history #innovation #consensus

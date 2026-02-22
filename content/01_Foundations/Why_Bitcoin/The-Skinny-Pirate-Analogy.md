@@ -7,6 +7,8 @@ tags:
   - privacy
 ---
 
+[[index|← Return to Index]]
+
 # The Skinny Pirate Analogy
 
 > [!abstract] TL;DR
@@ -31,5 +33,3 @@ For the first time in history, cryptography gives the "Skinny Pirate" a defensiv
 - [[Crypto-Anarchy-Ideology]]
 - [[Money-as-a-System-of-Control]]
 - [[The-Cypherpunk-Solution]]
-
-[[index|← Return to Index]]

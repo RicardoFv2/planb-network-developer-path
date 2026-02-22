@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "The Fiat Life"
 description: "The cultural and economic consequences of living under a debasing currency."
@@ -32,5 +34,3 @@ Bitcoin offers a return to **Low Time Preference**. When you hold a currency tha
 - [[Time-Preference]]
 - [[The-Nixon-Shock-1971]]
 - [[Shrinkflation-and-Skimpflation]]
-
-[[index|← Return to Index]]

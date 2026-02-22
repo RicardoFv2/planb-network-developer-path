@@ -7,6 +7,8 @@ tags:
   - inequality
 ---
 
+[[index|← Return to Index]]
+
 # The Cantillon Effect
 
 > [!abstract] TL;DR
@@ -32,5 +34,3 @@ Imagine a pot of honey being poured into the center of a table. The honey is hig
 - [[Roman-Currency-Debasement]]
 - [[The-Fiat-Life]]
 - [[Shrinkflation-and-Skimpflation]]
-
-[[index|← Return to Index]]

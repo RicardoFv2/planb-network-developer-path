@@ -8,6 +8,8 @@ tags:
   - sovereignty
 ---
 
+[[index|← Return to Index]]
+
 # Spectrum of Security Models
 
 > [!abstract] TL;DR
@@ -36,5 +38,3 @@ Security in Bitcoin is a spectrum where:
 - [[Custodial-vs-Federated-Models]]
 - [[Layer-2-Security-Models]]
 - [[Base-Layer-Sovereignty]]
-
-[[index|← Return to Index]]

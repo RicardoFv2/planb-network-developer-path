@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Lecture 01 - Recommended Resources
 
 ## 🎓 Recommended Courses (Plan ₿ Academy)

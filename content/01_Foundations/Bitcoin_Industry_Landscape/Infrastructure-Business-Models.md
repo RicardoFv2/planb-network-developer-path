@@ -8,6 +8,8 @@ tags:
   - infrastructure
 ---
 
+[[index|← Return to Index]]
+
 # Infrastructure Business Models
 
 > [!abstract] TL;DR
@@ -32,5 +34,3 @@ Software in the Bitcoin ecosystem is typically open-source and expected to be fr
 ## Related Notes
 
 - [[Bitcoin-Business-Models]]
-
-[[index|← Return to Index]]
