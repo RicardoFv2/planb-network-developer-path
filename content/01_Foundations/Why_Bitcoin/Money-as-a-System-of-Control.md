@@ -35,3 +35,5 @@ Bitcoin returns us to a **Bearer Instrument** model. Transactions are peer-to-pe
 - [[The-Skinny-Pirate-Analogy]]
 
 #philosophy #privacy #freedom #bitcoin #surveillance
+
+[[index|← Return to Index]]

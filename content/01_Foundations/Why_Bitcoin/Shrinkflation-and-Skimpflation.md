@@ -35,3 +35,5 @@ Both phenomena are symptoms of a **debased currency**. Because the money is wort
 - [[The-Cantillon-Effect]]
 - [[Historical-Hyperinflation-Cases]]
 - [[The-Fiat-Life]]
+
+[[index|← Return to Index]]

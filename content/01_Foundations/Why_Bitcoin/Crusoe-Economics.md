@@ -39,3 +39,5 @@ Saving (sacrifice of current consumption) is the only way to build **Capital**. 
 - [[Energy-Harvesting-and-Capital]]
 - [[Positive-Sum-Games]]
 #economics #philosophy #civilization #saving
+
+[[index|← Return to Index]]

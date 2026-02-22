@@ -133,3 +133,5 @@
 **A:** Because they want the efficiency gains of distributed ledgers while maintaining the ability to control, censor, and inflate the monetary unit—something they cannot do with the decentralized, immutable asset that is Bitcoin.
 
 ---
+
+[[index|← Return to Index]]

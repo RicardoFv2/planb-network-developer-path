@@ -33,3 +33,5 @@ For the first time in history, cryptography gives the "Skinny Pirate" a defensiv
 - [[Crypto-Anarchy-Ideology]]
 - [[Money-as-a-System-of-Control]]
 - [[The-Cypherpunk-Solution]]
+
+[[index|← Return to Index]]

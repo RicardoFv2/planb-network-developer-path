@@ -37,3 +37,5 @@ Bitcoin is the digital evolution of these early collectibles. It is the first "d
 - [[Sound-Money-Principles-MOC]]
 - [[Energy-Harvesting-and-Capital]]
 - [[Inert-and-Malleable-Gold]]
+
+[[index|← Return to Index]]

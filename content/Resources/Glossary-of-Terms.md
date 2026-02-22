@@ -45,3 +45,5 @@
 
 ---
 #glossary #economics #cryptography #bitcoin
+
+[[index|← Return to Index]]

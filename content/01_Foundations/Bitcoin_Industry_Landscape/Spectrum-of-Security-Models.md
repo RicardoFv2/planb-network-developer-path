@@ -38,3 +38,5 @@ Security in Bitcoin is a spectrum where:
 - [[Custodial-vs-Federated-Models]]
 - [[Layer-2-Security-Models]]
 - [[Base-Layer-Sovereignty]]
+
+[[index|← Return to Index]]

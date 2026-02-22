@@ -28,3 +28,5 @@ To scale globally without sacrificing decentralization at the base layer, the Bi
 
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[RGB-and-Taproot-Assets]]
+
+[[index|← Return to Index]]

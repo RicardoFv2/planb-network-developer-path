@@ -12,3 +12,5 @@ Bitcoin is a technological attempt to **de-virtualize** money. While modern fina
 3. **The Inflation Trap:** Inflation acts as a "System of Control" and a "Stealth Tax" (Cantillon Effect). It destroys the quality of goods (Skimpflation) and shifts wealth from the productive class to the political class.
 
 ---
+
+[[index|← Return to Index]]

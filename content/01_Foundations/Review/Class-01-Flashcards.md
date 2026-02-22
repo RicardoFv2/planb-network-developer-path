@@ -53,3 +53,5 @@
 **A:** It shows that physical force (The Big Pirate) can be defeated by math (The Cipher). If a map is encrypted or held in your head, violence cannot take your wealth.
 
 ---
+
+[[index|← Return to Index]]

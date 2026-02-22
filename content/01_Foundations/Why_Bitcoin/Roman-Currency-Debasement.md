@@ -35,3 +35,5 @@ The story of the Denarius is the ultimate warning for modern fiat systems. When 
 - [[The-Nixon-Shock-1971]]
 
 #history #economics #inflation #gold #bitcoin
+
+[[index|← Return to Index]]

@@ -35,3 +35,5 @@ Low time preference allows for **Saving**, which allows for **Innovation**, whic
 - [[Crusoe-Economics]]
 - [[The-Fiat-Life]]
 - [[Energy-Harvesting-and-Capital]]
+
+[[index|← Return to Index]]

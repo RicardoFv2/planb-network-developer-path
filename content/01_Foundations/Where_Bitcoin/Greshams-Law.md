@@ -32,3 +32,5 @@ Imagine you have a basket of fresh apples (Bitcoin) and a basket of rotting appl
 - [[Sound-Money-Principles-MOC]]
 - [[The-Roman-Debasement-Lesson]]
 - [[Power-Law-Adoption]]
+
+[[index|← Return to Index]]

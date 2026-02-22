@@ -34,3 +34,5 @@ Bitcoin offers a return to **Low Time Preference**. When you hold a currency tha
 - [[Time-Preference]]
 - [[The-Nixon-Shock-1971]]
 - [[Shrinkflation-and-Skimpflation]]
+
+[[index|← Return to Index]]

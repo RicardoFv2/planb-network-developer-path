@@ -37,3 +37,5 @@ Therefore, you monetize in Bitcoin by providing tangible goods (hardware), consu
 ## Related Notes
 
 - [[Bitcoin-Business-Models]]
+
+[[index|← Return to Index]]

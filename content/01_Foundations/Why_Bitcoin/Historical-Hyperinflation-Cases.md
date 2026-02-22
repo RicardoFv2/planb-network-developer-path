@@ -39,3 +39,5 @@ Hyperinflation proves that "money" is not a gift from the government; it is an e
 - [[Inelasticity-of-Supply]]
 
 #history #economics #inflation #gold #bitcoin
+
+[[index|← Return to Index]]

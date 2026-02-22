@@ -36,3 +36,5 @@ Bitcoin solves this "trap" by returning to the security of raw gold (Proof of Wo
 - [[Roman-Currency-Debasement]]
 - [[Positive-Sum-Games]]
 - [[Sound-Money-Principles-MOC]]
+
+[[index|← Return to Index]]

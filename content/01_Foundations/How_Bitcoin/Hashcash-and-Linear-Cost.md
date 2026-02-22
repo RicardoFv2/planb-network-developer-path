@@ -35,3 +35,5 @@ Hashcash didn't solve the "double-spend" problem (you could reuse a stamp if the
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
 
 #history #pow #mining #economics
+
+[[index|← Return to Index]]

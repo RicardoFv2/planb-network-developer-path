@@ -38,3 +38,5 @@ If Lightning is like a network of pipes (channels) that you must maintain, Ark i
 - [[Lightning-Network-Payment-Channels]]
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[The-Timechain]]
+
+[[index|← Return to Index]]

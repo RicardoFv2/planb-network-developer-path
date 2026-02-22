@@ -41,3 +41,5 @@ The Lightning Network is a Layer 2 scaling solution built on top of Bitcoin. It 
 - [[The-Scalability-Trilemma-Bathtub-Curve]]
 - [[Ark-Lift-Off-Payments]]
 - [[The-Timechain]]
+
+[[index|← Return to Index]]

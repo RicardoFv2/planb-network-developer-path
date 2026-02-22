@@ -32,3 +32,5 @@ Imagine a user puts a document and a piece of carbon paper inside an envelope. T
 - [[Digital-Signatures-and-Authorship]]
 - [[Symmetric-vs-Asymmetric-Cryptography]]
 #cryptography #privacy #ecash #history
+
+[[index|← Return to Index]]

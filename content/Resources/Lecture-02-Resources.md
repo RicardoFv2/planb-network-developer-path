@@ -24,3 +24,5 @@ Giacomo recommends different books depending on the student's path:
 
 ---
 #resources #books #learning #bitcoin
+
+[[index|← Return to Index]]

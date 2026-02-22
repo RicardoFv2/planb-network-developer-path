@@ -35,3 +35,5 @@ Imagine a kidnapper holding a newspaper in a photo. The newspaper proves the pho
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Merkle-Trees-and-Timestamping]]
 - [[The-Double-Spending-Problem]]
+
+[[index|← Return to Index]]

@@ -38,3 +38,5 @@ Satoshi's original whitepaper mentioned "one CPU, one vote." While the hardware 
 - [[Hashcash-and-Linear-Cost]]
 - [[Mining-Economics-Subsidy-vs-Fees]]
 #bitcoin #mining #hardware #history #economics
+
+[[index|← Return to Index]]

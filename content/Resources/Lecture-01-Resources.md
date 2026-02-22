@@ -29,3 +29,5 @@ The first lecture focuses on Economics, History, and the "Why" of Bitcoin.
 
 ---
 #resources #economics #history #bitcoin #gold
+
+[[index|← Return to Index]]

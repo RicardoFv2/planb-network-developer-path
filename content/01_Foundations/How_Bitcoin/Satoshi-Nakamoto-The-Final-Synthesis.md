@@ -38,3 +38,5 @@ By remaining anonymous and eventually disappearing, Satoshi ensured that Bitcoin
 - [[The-Double-Spending-Problem]]
 - [[Crypto-Anarchy-Ideology]]
 #bitcoin #satoshi #history #innovation #consensus
+
+[[index|← Return to Index]]
