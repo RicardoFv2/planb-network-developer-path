@@ -8,6 +8,8 @@ tags:
   - infrastructure
 ---
 
+[[index|← Return to Index]]
+
 # Infrastructure Business Models
 
 > [!abstract] TL;DR

@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Bitcoin Glossary: From Philosophy to Technology
 
 ## Lecture 01: Economics & Philosophy (Why Bitcoin)
@@ -43,3 +45,5 @@
 
 ---
 #glossary #economics #cryptography #bitcoin
+
+[[index|← Return to Index]]

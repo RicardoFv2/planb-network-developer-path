@@ -7,6 +7,8 @@ tags:
   - cryptography
 ---
 
+[[index|← Return to Index]]
+
 # David Chaum and eCash
 
 > [!abstract] TL;DR

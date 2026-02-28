@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Flashcards: Where Bitcoin (Class 3)
 
 > Use these for Active Recall. Try to answer before looking at the solution.
@@ -124,4 +126,4 @@
 
 ---
 
-[[index|Return to Index]]
+[[index|← Return to Index]]

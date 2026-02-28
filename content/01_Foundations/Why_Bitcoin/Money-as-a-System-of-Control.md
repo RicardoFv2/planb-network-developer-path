@@ -7,6 +7,8 @@ tags:
   - freedom
 ---
 
+[[index|← Return to Index]]
+
 # Money as a System of Control
 
 > [!abstract] TL;DR

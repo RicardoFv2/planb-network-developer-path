@@ -8,6 +8,8 @@ tags:
   - freedom
 ---
 
+[[index|← Return to Index]]
+
 # Regulatory Arbitrage (Stablecoins)
 
 > [!abstract] TL;DR

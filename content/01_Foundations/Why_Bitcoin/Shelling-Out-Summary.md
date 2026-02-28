@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Shelling Out (Nick Szabo Summary)"
 description: "The pre-history of money and the evolution of collectibles as stores of value."
@@ -35,3 +37,5 @@ Bitcoin is the digital evolution of these early collectibles. It is the first "d
 - [[Sound-Money-Principles-MOC]]
 - [[Energy-Harvesting-and-Capital]]
 - [[Inert-and-Malleable-Gold]]
+
+[[index|← Return to Index]]

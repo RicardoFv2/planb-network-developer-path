@@ -8,6 +8,8 @@ tags:
   - custody
 ---
 
+[[index|← Return to Index]]
+
 # Custodial vs Federated Models
 
 > [!abstract] TL;DR

@@ -9,6 +9,8 @@ tags:
   - base-layer
 ---
 
+[[index|← Return to Index]]
+
 # Base Layer Sovereignty
 
 > [!abstract] TL;DR

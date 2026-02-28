@@ -8,6 +8,8 @@ tags:
   - layers
 ---
 
+[[index|← Return to Index]]
+
 # Bitcoin Network Layers
 
 > [!abstract] TL;DR

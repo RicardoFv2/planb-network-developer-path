@@ -7,6 +7,8 @@ tags:
   - security
 ---
 
+[[index|← Return to Index]]
+
 # The Double Spending Problem
 
 > [!abstract] TL;DR
@@ -35,7 +37,6 @@ Solving double-spending without a central authority is the core invention of Bit
 - [[The-Timechain]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
+#bitcoin #economics #security #doublespend
 
 [[index|← Return to Index]]
-
-#bitcoin #economics #security #doublespend

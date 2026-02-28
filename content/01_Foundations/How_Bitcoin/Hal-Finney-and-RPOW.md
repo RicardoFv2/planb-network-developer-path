@@ -7,6 +7,8 @@ tags:
   - cypherpunks
 ---
 
+[[index|← Return to Index]]
+
 # Hal Finney and RPOW (Reusable Proof of Work)
 
 > [!abstract] TL;DR

@@ -8,6 +8,8 @@ tags:
   - layer2
 ---
 
+[[index|← Return to Index]]
+
 # Lightning Network (Payment Channels)
 
 > [!abstract] TL;DR

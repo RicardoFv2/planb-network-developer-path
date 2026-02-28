@@ -8,6 +8,8 @@ tags:
   - adoption
 ---
 
+[[index|← Return to Index]]
+
 # Power Law Adoption
 
 > [!abstract] TL;DR

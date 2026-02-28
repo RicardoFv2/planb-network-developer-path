@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Roman Currency Debasement"
 description: "The historical lesson of how diluting the currency leads to the collapse of empires."

@@ -7,6 +7,8 @@ tags:
   - monetaryhistory
 ---
 
+[[index|← Return to Index]]
+
 # Gresham's Law (Thiers' Law)
 
 > [!abstract] TL;DR

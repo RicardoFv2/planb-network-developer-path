@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Flashcards: Bitcoin Industry Landscape (Class 4)
 
 > Use these for Active Recall. Try to answer before looking at the solution.
@@ -132,4 +134,4 @@
 
 ---
 
-[[index|Return to Index]]
+[[index|← Return to Index]]

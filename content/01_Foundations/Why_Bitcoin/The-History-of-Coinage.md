@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "The History of Coinage"
 description: "How standardized money solving the double coincidence of wants introduced the trap of trust."

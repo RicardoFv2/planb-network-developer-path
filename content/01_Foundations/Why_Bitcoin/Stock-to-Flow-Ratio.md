@@ -7,6 +7,8 @@ tags:
   - scarcity
 ---
 
+[[index|← Return to Index]]
+
 # Stock-to-Flow Ratio
 
 > [!abstract] TL;DR

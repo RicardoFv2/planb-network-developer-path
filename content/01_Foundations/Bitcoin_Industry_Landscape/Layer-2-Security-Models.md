@@ -8,6 +8,8 @@ tags:
   - layer2
 ---
 
+[[index|← Return to Index]]
+
 # Layer 2 Security Models
 
 > [!abstract] TL;DR

@@ -7,6 +7,8 @@ tags:
   - technology
 ---
 
+[[index|← Return to Index]]
+
 # The UTXO Model vs Account Model
 
 > [!abstract] TL;DR
@@ -35,7 +37,6 @@ tags:
 - [[Satoshi-Nakamoto-The-Final-Synthesis]]
 - [[Digital-Signatures-and-Authorship]]
 - [[The-Timechain]]
+#bitcoin #structure #technology #utxo
 
 [[index|← Return to Index]]
-
-#bitcoin #structure #technology #utxo

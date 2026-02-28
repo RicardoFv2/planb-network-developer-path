@@ -7,6 +7,8 @@ tags:
   - security
 ---
 
+[[index|← Return to Index]]
+
 # Hash Functions and Pre-image Resistance
 
 > [!abstract] TL;DR
@@ -39,7 +41,6 @@ A hash is like a **fingerprint**. You can't reconstruct a human being from their
 - [[Merkle-Trees-and-Timestamping]]
 - [[Proof-of-Work-Unforgeable-Costliness]]
 - [[Digital-Signatures-and-Authorship]]
+#cryptography #math #security #hashing
 
 [[index|← Return to Index]]
-
-#cryptography #math #security #hashing

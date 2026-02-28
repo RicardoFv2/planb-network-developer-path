@@ -7,6 +7,8 @@ tags:
   - mining
 ---
 
+[[index|← Return to Index]]
+
 # Hashcash and Linear Cost
 
 > [!abstract] TL;DR

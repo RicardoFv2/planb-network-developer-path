@@ -7,6 +7,8 @@ tags:
   - basics
 ---
 
+[[index|← Return to Index]]
+
 # Shrinkflation and Skimpflation
 
 > [!abstract] TL;DR

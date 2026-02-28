@@ -8,6 +8,8 @@ tags:
   - security
 ---
 
+[[index|← Return to Index]]
+
 # Proof of Work (Unforgeable Costliness)
 
 > [!abstract] TL;DR

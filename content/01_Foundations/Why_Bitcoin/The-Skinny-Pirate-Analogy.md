@@ -7,6 +7,8 @@ tags:
   - privacy
 ---
 
+[[index|← Return to Index]]
+
 # The Skinny Pirate Analogy
 
 > [!abstract] TL;DR

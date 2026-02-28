@@ -7,6 +7,8 @@ tags:
   - history
 ---
 
+[[index|← Return to Index]]
+
 # E-Cash Flow Diagram
 
 > [!abstract] TL;DR

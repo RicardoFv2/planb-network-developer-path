@@ -7,6 +7,8 @@ tags:
   - freedom
 ---
 
+[[index|← Return to Index]]
+
 # Crypto-Anarchy Ideology
 
 > [!abstract] TL;DR

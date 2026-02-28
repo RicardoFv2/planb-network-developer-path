@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Fractional Reserve Banking"
 description: "The systemic risk of banks lending out more money than they actually hold."

@@ -8,6 +8,8 @@ tags:
   - scarcity
 ---
 
+[[index|← Return to Index]]
+
 # The Sigma Equation (Halving)
 
 > [!abstract] TL;DR

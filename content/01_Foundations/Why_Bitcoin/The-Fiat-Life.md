@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "The Fiat Life"
 description: "The cultural and economic consequences of living under a debasing currency."

@@ -7,6 +7,8 @@ tags:
   - consensus
 ---
 
+[[index|← Return to Index]]
+
 # The Timechain
 
 > [!abstract] TL;DR

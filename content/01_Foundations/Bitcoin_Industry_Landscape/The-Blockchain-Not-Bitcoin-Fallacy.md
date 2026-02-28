@@ -8,6 +8,8 @@ tags:
   - incentives
 ---
 
+[[index|← Return to Index]]
+
 # The Blockchain Not Bitcoin Fallacy
 
 > [!abstract] TL;DR

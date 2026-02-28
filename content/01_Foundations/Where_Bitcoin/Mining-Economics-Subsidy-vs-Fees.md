@@ -8,6 +8,8 @@ tags:
   - fees
 ---
 
+[[index|← Return to Index]]
+
 # Mining Economics (Subsidy vs Fees)
 
 > [!abstract] TL;DR

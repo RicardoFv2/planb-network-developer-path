@@ -8,6 +8,8 @@ tags:
   - assets
 ---
 
+[[index|← Return to Index]]
+
 # RGB and Taproot Assets
 
 > [!abstract] TL;DR

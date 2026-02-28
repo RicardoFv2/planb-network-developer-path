@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "Historical Hyperinflation Cases"
 description: "Learning from the destruction of purchasing power throughout history."

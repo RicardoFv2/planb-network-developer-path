@@ -8,6 +8,8 @@ tags:
   - sovereignty
 ---
 
+[[index|← Return to Index]]
+
 # Spectrum of Security Models
 
 > [!abstract] TL;DR

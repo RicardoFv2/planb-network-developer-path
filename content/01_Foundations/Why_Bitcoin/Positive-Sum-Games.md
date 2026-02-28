@@ -7,6 +7,8 @@ tags:
   - basics
 ---
 
+[[index|← Return to Index]]
+
 # Positive-Sum Games
 
 > [!abstract] TL;DR
@@ -31,7 +33,6 @@ A sound monetary system encourages society to focus on positive-sum games (produ
 - [[Crusoe-Economics]]
 - [[The-History-of-Coinage]]
 - [[Sound-Money-Principles-MOC]]
+#economics #philosophy #trade #wealth
 
 [[index|← Return to Index]]
-
-#economics #philosophy #trade #wealth

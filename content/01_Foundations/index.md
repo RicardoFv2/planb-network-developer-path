@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # 🗺️ Developer Path - Plan B Network
 
 > Progress tracking and content map for Bitcoin Development studies.
@@ -158,3 +160,5 @@
 ---
 
 **Total Progress:** 20%
+
+[[index|← Return to Index]]

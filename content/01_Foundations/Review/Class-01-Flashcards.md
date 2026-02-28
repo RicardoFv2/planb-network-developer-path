@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Flashcards: Why Bitcoin (Class 1)
 
 > Use these for Active Recall. Try to answer before looking at the solution.
@@ -52,4 +54,4 @@
 
 ---
 
-[[index|Return to Index]]
+[[index|← Return to Index]]

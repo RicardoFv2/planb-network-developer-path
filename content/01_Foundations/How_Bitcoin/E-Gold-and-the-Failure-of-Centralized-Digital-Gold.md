@@ -7,6 +7,8 @@ tags:
   - centralization
 ---
 
+[[index|← Return to Index]]
+
 # E-Gold and the Failure of Centralized Digital Gold
 
 > [!abstract] TL;DR

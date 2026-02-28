@@ -7,6 +7,8 @@ tags:
   - basics
 ---
 
+[[index|← Return to Index]]
+
 # Time Preference
 
 > [!abstract] TL;DR

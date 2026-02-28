@@ -8,6 +8,8 @@ tags:
   - web2
 ---
 
+[[index|← Return to Index]]
+
 # Monetizing Decentralization
 
 > [!abstract] TL;DR

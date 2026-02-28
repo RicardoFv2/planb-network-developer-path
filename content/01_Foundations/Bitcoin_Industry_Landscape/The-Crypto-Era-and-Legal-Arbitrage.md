@@ -8,6 +8,8 @@ tags:
   - regulation
 ---
 
+[[index|← Return to Index]]
+
 # The Crypto Era and Legal Arbitrage
 
 > [!abstract] TL;DR

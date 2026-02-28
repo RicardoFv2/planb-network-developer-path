@@ -7,6 +7,8 @@ tags:
   - scarcity
 ---
 
+[[index|← Return to Index]]
+
 # Inelasticity of Supply
 
 > [!abstract] TL;DR
@@ -33,7 +35,6 @@ Because Bitcoin's supply is perfectly inelastic, any increase in demand MUST tra
 - [[Stock-to-Flow-Ratio]]
 - [[The-Sigma-Equation-Halving]]
 - [[Inert-and-Malleable-Gold]]
+#economics #scarcity #bitcoin #hardmoney
 
 [[index|← Return to Index]]
-
-#economics #scarcity #bitcoin #hardmoney

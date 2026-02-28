@@ -7,6 +7,8 @@ tags:
   - decentralization
 ---
 
+[[index|← Return to Index]]
+
 # The Scalability Trilemma (Bathtub Curve)
 
 > [!abstract] TL;DR

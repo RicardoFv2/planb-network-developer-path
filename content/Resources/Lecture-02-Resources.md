@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Lecture 02 - Recommended Resources
 
 ## Core Books mentioned by Zucco
@@ -22,3 +24,5 @@ Giacomo recommends different books depending on the student's path:
 
 ---
 #resources #books #learning #bitcoin
+
+[[index|← Return to Index]]

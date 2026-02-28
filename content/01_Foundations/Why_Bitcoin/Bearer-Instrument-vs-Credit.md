@@ -7,6 +7,8 @@ tags:
   - sovereignty
 ---
 
+[[index|← Return to Index]]
+
 # Bearer Instrument vs Credit
 
 > [!abstract] TL;DR

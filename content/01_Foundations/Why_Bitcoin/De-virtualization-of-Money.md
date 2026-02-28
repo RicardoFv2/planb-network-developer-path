@@ -7,6 +7,8 @@ tags:
   - bitcoin
 ---
 
+[[index|← Return to Index]]
+
 # De-virtualization of Money
 
 > [!abstract] TL;DR

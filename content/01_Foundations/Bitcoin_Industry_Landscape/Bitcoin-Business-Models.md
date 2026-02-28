@@ -8,6 +8,8 @@ tags:
   - economics
 ---
 
+[[index|← Return to Index]]
+
 # Bitcoin Business Models
 
 > [!abstract] TL;DR

@@ -7,6 +7,8 @@ tags:
   - inequality
 ---
 
+[[index|← Return to Index]]
+
 # The Cantillon Effect
 
 > [!abstract] TL;DR

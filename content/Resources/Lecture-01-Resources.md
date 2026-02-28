@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 # Lecture 01 - Recommended Resources
 
 ## 🎓 Recommended Courses (Plan ₿ Academy)
@@ -27,3 +29,5 @@ The first lecture focuses on Economics, History, and the "Why" of Bitcoin.
 
 ---
 #resources #economics #history #bitcoin #gold
+
+[[index|← Return to Index]]

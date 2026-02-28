@@ -1,3 +1,5 @@
+[[index|← Return to Index]]
+
 ﻿---
 title: "The Nixon Shock (1971)"
 description: "The historical moment the world abandoned the gold standard for pure fiat."
