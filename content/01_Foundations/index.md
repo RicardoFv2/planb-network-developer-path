@@ -8,6 +8,7 @@
 - [ ] [[01_Foundations/02. How Bitcoin - Deep Dive Summary|02. How Bitcoin (DEEP DIVE Summary)]]
 - [ ] [[01_Foundations/03. Where Bitcoin - Deep Dive Summary|03. Where Bitcoin (DEEP DIVE Summary)]]
 - [ ] [[01_Foundations/04. Bitcoin Industry Landscape - Deep Dive Summary|04. Bitcoin Industry Landscape (DEEP DIVE Summary)]]
+- [ ] [[02_Developer_Track/01. Bitcoin Protocol Intro - Deep Dive Summary|01. Bitcoin Protocol Intro (DEEP DIVE Summary)]]
 
 ## 🏛️ Foundations: Why Bitcoin (Lecture 01)
 
@@ -131,6 +132,17 @@
 ### Visuals & Resources
 
 - [ ] [[01_Foundations/Review/Class-04-Flashcards|Class 04 Flashcards]]
+
+## 💻 Developer Track (Lecture 01)
+
+### Bitcoin Protocol Intro
+
+- [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Bitcoin-Core-Architecture|Bitcoin Core Architecture]]
+- [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Building-Bitcoin-Core|Building Bitcoin Core]]
+- [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Key-Source-Files|Key Source Files]]
+- [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Testing-and-Validation|Testing and Validation]]
+- [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Peer-to-Peer-Network|Peer to Peer Network]]
+- [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Contributing-to-Bitcoin-Core|Contributing to Bitcoin Core]]
 
 ## 🛠️ Tools & Resources
 
