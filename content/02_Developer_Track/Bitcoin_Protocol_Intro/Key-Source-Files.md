@@ -5,7 +5,7 @@ title: Key Source Files
 
 # Key Source Files in Bitcoin Core
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
 
 The `src/` directory in the Bitcoin Core repository contains the C++ files that power the node. Here are a few of the most important files any new contributor should become familiar with:
 
@@ -30,4 +30,4 @@ The `src/` directory in the Bitcoin Core repository contains the C++ files that 
 
 ---
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]

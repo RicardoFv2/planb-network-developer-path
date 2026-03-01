@@ -5,7 +5,7 @@ title: Building Bitcoin Core
 
 # Building Bitcoin Core from Source
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
 
 Building Bitcoin Core directly from the source code rather than downloading a pre-compiled binary is a fundamental skill for developers and serious node operators.
 
@@ -25,4 +25,4 @@ Building from source allows you to verify what you run and the ability to test n
 
 ---
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]

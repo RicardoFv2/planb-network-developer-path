@@ -5,7 +5,7 @@ title: Contributing to Bitcoin Core
 
 # Contributing to Bitcoin Core
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
 
 Bitcoin Core is maintained by a very small group of active developers globally (estimated at 30-50 people working full-time on the baseline protocol). New contributors are always needed, but the onboarding process can feel intimidating because of the high safety standards.
 
@@ -28,4 +28,4 @@ Currently, funding for Bitcoin Core developers is reasonably accessible compared
 
 ---
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]

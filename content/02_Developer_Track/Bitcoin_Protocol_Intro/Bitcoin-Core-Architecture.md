@@ -5,7 +5,7 @@ title: Bitcoin Core Architecture
 
 # Bitcoin Core Architecture
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
 
 Bitcoin Core is the reference implementation of the Bitcoin protocol. The codebase is primarily written in C++, with some testing suites written in Python.
 
@@ -23,4 +23,4 @@ The architecture emphasizes separation of concerns where possible, though much l
 
 ---
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]

@@ -5,7 +5,7 @@ title: Testing and Validation
 
 # Testing and Validation in Bitcoin Core
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
 
 Given that Bitcoin deals with immense monetary value and consensus rules that must remain stable, rigorous testing is a defining characteristic of the codebase development.
 
@@ -28,4 +28,4 @@ There is no automated "is this a fork?" test; it relies on:
 
 ---
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]

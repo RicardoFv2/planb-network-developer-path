@@ -5,7 +5,7 @@ title: Peer to Peer Network
 
 # The Peer to Peer Network
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
 
 Bitcoin runs on a decentralized peer-to-peer (P2P) network. A major responsibility of a node is communicating effectively and securely with its peers.
 
@@ -36,4 +36,4 @@ Nodes communicate continuously at high speeds, exchanging inventory data and req
 
 ---
 
-[[index|← Return to Index]]
+[[02_Developer_Track/index|← Return to Index]]
