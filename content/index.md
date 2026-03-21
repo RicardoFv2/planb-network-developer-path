@@ -9,9 +9,12 @@
 - [ ] [[01_Foundations/03. Where Bitcoin - Deep Dive Summary|03. Where Bitcoin (DEEP DIVE)]]
 - [ ] [[01_Foundations/04. Bitcoin Industry Landscape - Deep Dive Summary|04. Bitcoin Industry Landscape (DEEP DIVE)]]
 - [ ] [[02_Developer_Track/01. Bitcoin Protocol Intro - Deep Dive Summary|01. Bitcoin Protocol Intro (DEEP DIVE)]]
-- [ ] [[02_Developer_Track/02. Technical Part (Swaps & Layers) - Deep Dive Summary|02. Technical Part (Swaps & Layers) (DEEP DIVE)]] — [[02_Developer_Track/Swap Layer/index|📂 Ver Notas Atómicas]]
-- [ ] [[02_Developer_Track/03. Liquid SDK & Breeze - Deep Dive Summary|03. Liquid SDK & Breeze (DEEP DIVE)]] — [[02_Developer_Track/Liquid_SDK_Breeze/index|📂 Ver Notas Atómicas]]
-- [ ] [[02_Developer_Track/04. Ecash & Cashu - Deep Dive Summary|04. Ecash & Cashu (DEEP DIVE)]] — [[02_Developer_Track/Cashu_and_Ecash/index|📂 Ver Notas Atómicas]]
+- [ ] [[02_Developer_Track/Swap Layer/02. Technical Part (Swaps & Layers) - Deep Dive Summary|02. Technical Part (Swaps & Layers) (DEEP DIVE)]]
+	- [[02_Developer_Track/Swap Layer/index|Index]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/03. Liquid SDK & Breeze - Deep Dive Summary|03. Liquid SDK & Breeze (DEEP DIVE)]]
+	- [[02_Developer_Track/Liquid_SDK_Breeze/index|Index]]
+- [ ] [[02_Developer_Track/Cashu_and_Ecash/04. Ecash & Cashu - Deep Dive Summary|04. Ecash & Cashu (DEEP DIVE)]]
+	- [[02_Developer_Track/Cashu_and_Ecash/index|Index]]
 
 ## 🏛️ Foundations: Why Bitcoin (Lecture 01)
 
