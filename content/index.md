@@ -163,6 +163,8 @@
 - [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Liquid-vs-Spark|Sidechain Comparison: Liquid vs. Spark]]
 - [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Breeze-Privacy-Tradeoffs|Privacy Trade-offs & Security Models]]
 
+### [[02_Developer_Track/Cashu_and_Ecash/index|💸 Cashu & Ecash (Lecture 04 Index)]]
+
 ## 🛠️ Tools & Resources
 
 - [ ] [[Recursos y Cursos|📚 Plan B Network - General Resources & Books]]
