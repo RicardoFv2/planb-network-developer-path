@@ -9,6 +9,8 @@
 - [ ] [[01_Foundations/03. Where Bitcoin - Deep Dive Summary|03. Where Bitcoin (DEEP DIVE Summary)]]
 - [ ] [[01_Foundations/04. Bitcoin Industry Landscape - Deep Dive Summary|04. Bitcoin Industry Landscape (DEEP DIVE Summary)]]
 - [ ] [[02_Developer_Track/01. Bitcoin Protocol Intro - Deep Dive Summary|01. Bitcoin Protocol Intro (DEEP DIVE Summary)]]
+- [ ] [[02_Developer_Track/02. Technical Part (Swaps & Layers) - Deep Dive Summary|02. Technical Part (Swaps & Layers) (DEEP DIVE Summary)]]
+- [ ] [[02_Developer_Track/03. Liquid SDK & Breeze - Deep Dive Summary|03. Liquid SDK & Breeze (DEEP DIVE Summary)]]
 
 ## 🏛️ Foundations: Why Bitcoin (Lecture 01)
 
@@ -143,6 +145,23 @@
 - [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Testing-and-Validation|Testing and Validation]]
 - [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Peer-to-Peer-Network|Peer to Peer Network]]
 - [ ] [[02_Developer_Track/Bitcoin_Protocol_Intro/Contributing-to-Bitcoin-Core|Contributing to Bitcoin Core]]
+
+## 💻 Developer Track (Lecture 02)
+
+### Technical Part (Swaps & Layers)
+
+- [ ] [[02_Developer_Track/Swap Layer/Bitcoin-Layers|Bitcoin Layers & Fragmentation]]
+- [ ] [[02_Developer_Track/Swap Layer/HTLCs|Hash Time Locked Contracts (HTLCs)]]
+- [ ] [[02_Developer_Track/Swap Layer/Bitcoin-Script|Bitcoin Script & OpCodes]]
+- [ ] [[02_Developer_Track/Swap Layer/Transaction-Malleability|Transaction Malleability & SegWit]]
+- [ ] [[02_Developer_Track/Swap Layer/Submarine-Swaps|Submarine Swaps]]
+- [ ] [[02_Developer_Track/Swap Layer/Taproot-Swaps|Taproot & Advanced Scripts]]
+- [ ] [[02_Developer_Track/Swap Layer/MuSig2|MuSig2 & Schnorr Signatures]]
+
+### 🛠️ Liquid SDK & Breeze (Lecture 03 Deep Dives)
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Breeze-SDK-Paradigm|Breeze SDK Paradigm: Connect, Prepare, Execute]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Liquid-vs-Spark|Sidechain Comparison: Liquid vs. Spark]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Breeze-Privacy-Tradeoffs|Privacy Trade-offs & Security Models]]
 
 ## 🛠️ Tools & Resources
 
