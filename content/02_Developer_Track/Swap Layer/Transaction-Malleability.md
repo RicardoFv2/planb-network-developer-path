@@ -9,10 +9,11 @@ tags:
 
 # Transaction Malleability & SegWit
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
 
-> [!abstract] Core Concept
-> Transaction Malleability was a flaw where the cryptographic signature of a transaction could be slightly altered without invalidating it, changing the Transaction ID (TXID). Segregated Witness (SegWit) fixed this by moving the signature outside the TXID hash, making protocols like the Lightning Network possible.
+> [!abstract] TL;DR
+> Transaction Malleability was a bug that allowed the ID of a transaction to be changed before it was confirmed. SegWit fixed this by moving signature data to a separate "witness" field.
+ID (TXID). Segregated Witness (SegWit) fixed this by moving the signature outside the TXID hash, making protocols like the Lightning Network possible.
 
 ## The Malleability Problem
 In legacy Bitcoin transactions, everything—including the digital signature—was hashed to generate the unique identifier for the transaction (the TXID).

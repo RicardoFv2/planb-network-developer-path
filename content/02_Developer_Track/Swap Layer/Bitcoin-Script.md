@@ -9,10 +9,10 @@ tags:
 
 # Bitcoin Script & OpCodes
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
 
-> [!abstract] Core Concept
-> Bitcoin Script is a stack-based, intentionally Turing-incomplete virtual machine. It processes a sequence of instructions (OpCodes) to determine if a transaction is authorized to spend a UTXO by returning either `True` or `False`.
+> [!abstract] TL;DR
+> Bitcoin Script is a stack-based, non-Turing complete language that defines how UTXOs can be spent. OpCodes like `OP_HASH160` and `OP_CHECKLOCKTIMEVERIFY` are the building blocks of smart contracts and HTLCs.
 
 ## The Stack-Based Machine
 When evaluating a Bitcoin transaction, the interpreter pushes parameters (like signatures and public keys) onto a stack and then executes operations step-by-step. If at the end of the execution the script returns `True` without encountering any errors, the funds can be spent.

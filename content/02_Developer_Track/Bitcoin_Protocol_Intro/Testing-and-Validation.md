@@ -5,9 +5,13 @@ title: Testing and Validation
 
 # Testing and Validation in Bitcoin Core
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]
 
-Given that Bitcoin deals with immense monetary value and consensus rules that must remain stable, rigorous testing is a defining characteristic of the codebase development.
+# Testing and Validation
+
+> [!abstract] TL;DR
+> Maintaining Bitcoin's consensus requires rigorous multi-layered testing: Unit tests (C++), Functional tests (Python), and Fuzz testing (automated edge-case detection).
+Rigorous testing is a defining characteristic of the codebase development.
 
 ## Types of Tests
 
@@ -26,6 +30,8 @@ There is no automated "is this a fork?" test; it relies on:
 - High review bars for consensus code changes.
 - Community vigilance. Accidental forks are thankfully extremely rare due to this rigorous (if slow) human review process.
 
----
+## Related Notes
+- [[Key-Source-Files]]
+- [[Contributing-to-Bitcoin-Core]]
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]

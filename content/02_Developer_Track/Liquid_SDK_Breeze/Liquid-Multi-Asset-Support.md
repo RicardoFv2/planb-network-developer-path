@@ -10,10 +10,10 @@ tags:
 
 # Liquid Multi-Asset Support
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
 
-> [!abstract] Core Concept
-> Liquid is a "Multi-Asset" sidechain. This means it can host any number of digital assets (like USDt or LBTC) on the same ledger, benefiting from the same speed and privacy features.
+> [!abstract] TL;DR
+> Liquid is a multi-asset sidechain that can host not only Bitcoin (L-BTC) but also stablecoins (USDt), security tokens, and other digital assets on a unified ledger.
 
 ## 💵 Stablecoins: USDt on Liquid
 One of the most common use cases for the Liquid SDK is the integration of **USDt (Tether)**. 

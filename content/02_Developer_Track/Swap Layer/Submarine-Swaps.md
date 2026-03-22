@@ -10,7 +10,10 @@ tags:
 
 # Submarine Swaps
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
+
+> [!abstract] TL;DR
+> Submarine Swaps enable trustless atomic exchanges between on-chain Bitcoin and off-chain layers like Lightning by utilizing the atomicity of HTLCs.
 
 > [!abstract] Core Concept
 > A Submarine Swap is an atomic protocol that bridges Lightning Network liquidity with on-chain Bitcoin liquidity. Utilizing Hash Time Locked Contracts (HTLCs), they eliminate counterparty risk and permit continuous flow of capital across the protocol divide.

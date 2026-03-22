@@ -3,7 +3,12 @@ title: Cashu Programmability (P2PK & HTLC)
 aliases: [Spending Conditions, Pay-to-Public-Key, Hash Time Locked Contracts, Lightning Gateways]
 tags: [smart-contracts, cashu, programmability, payments, features]
 ---
-# Cashu Programmability: P2PK & HTLC
+# Cashu Programmability (P2PK & HTLC)
+
+[[02_Developer_Track/index-MOC#lecture-04|← Return to Index]]
+
+> [!abstract] TL;DR
+> Cashu tokens can be programmed with spending conditions like Pay-to-Public-Key (P2PK) for safe offline receiving or HTLCs for atomic swaps between mints.
 
 By default, eCash tokens are "spendable by everyone." If someone obtains the raw string representing the token, they own it. Cashu introduces **spending conditions**, allowing users to attach scripts to tokens that the mint must enforce before redeeming them.
 

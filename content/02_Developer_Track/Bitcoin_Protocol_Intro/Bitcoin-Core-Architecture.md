@@ -5,9 +5,10 @@ title: Bitcoin Core Architecture
 
 # Bitcoin Core Architecture
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]
 
-Bitcoin Core is the reference implementation of the Bitcoin protocol. The codebase is primarily written in C++, with some testing suites written in Python.
+> [!abstract] TL;DR
+> Bitcoin Core is the reference implementation of the Bitcoin protocol, primarily written in C++. Its architecture emphasizes a headless daemon (`bitcoind`) for consensus and networking, supported by various CLI and GUI utilities.
 
 ## Core Components
 
@@ -21,6 +22,8 @@ The `src/` directory contains the main components of the Bitcoin Core software:
 
 The architecture emphasizes separation of concerns where possible, though much legacy code remains. Significant effort is ongoing to separate consensus-critical code into its own specific module (`libbitcoinkernel`), isolating it from networking, wallet, or RPC components.
 
----
+## Related Notes
+- [[Key-Source-Files]]
+- [[Building-Bitcoin-Core]]
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]

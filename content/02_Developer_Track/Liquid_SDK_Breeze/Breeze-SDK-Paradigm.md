@@ -9,7 +9,10 @@ tags:
 
 # Breeze SDK Paradigm: Connect, Prepare, Execute
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
+
+> [!abstract] TL;DR
+> The Breeze SDK simplifies cross-layer payments into a three-step atomic workflow: Connect (initialize), Prepare (calculate fees/swaps), and Execute (commit transaction).
 
 > [!abstract] Core Concept
 > To handle the dynamic nature of Bitcoin fees and the complexities of swapping across layers, the Breeze SDK uses a standardized three-step workflow: **Connect**, **Prepare**, and **Execute**.

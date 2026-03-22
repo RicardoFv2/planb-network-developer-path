@@ -3,9 +3,12 @@ tags: [bitcoin-core, source-code, developer-track]
 title: Key Source Files
 ---
 
-# Key Source Files in Bitcoin Core
+# Key Source Files in Bitcoin
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]
+
+> [!abstract] TL;DR
+> Navigating the Bitcoin Core `src/` directory requires understanding key files like `validation.cpp` (consensus logic), `net.cpp` (networking), and `pow.cpp` (mining rules).
 
 The `src/` directory in the Bitcoin Core repository contains the C++ files that power the node. Here are a few of the most important files any new contributor should become familiar with:
 
@@ -28,6 +31,8 @@ The `src/` directory in the Bitcoin Core repository contains the C++ files that 
 
 - **`txmempool.cpp`**: Manages the memory pool, storing unconfirmed transactions waiting to be included in a block. Nodes can implement unique policies (different from consensus) regarding what they accept into their own mempool.
 
----
+## Related Notes
+- [[Bitcoin-Core-Architecture]]
+- [[Testing-and-Validation]]
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]

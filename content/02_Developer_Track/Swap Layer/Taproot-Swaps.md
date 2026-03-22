@@ -11,10 +11,10 @@ tags:
 
 # Taproot & Advanced Scripts
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
 
-> [!abstract] Core Concept
-> While HTLCs provide atomic security for swaps, they inherently leak smart-contract logic onto the blockchain when executed. The Taproot upgrade (`P2TR`) introduced structural changes to Bitcoin, specifically Schnorr signatures and MAST, enabling swaps to mirror entirely normal user transactions.
+> [!abstract] TL;DR
+> Taproot (P2TR) improves Bitcoin's privacy and efficiency by making complex smart contracts look like standard single-signature transactions on-chain. While HTLCs provide atomic security for swaps, they inherently leak smart-contract logic onto the blockchain when executed. The Taproot upgrade (`P2TR`) introduced structural changes to Bitcoin, specifically Schnorr signatures and MAST, enabling swaps to mirror entirely normal user transactions.
 
 ## The Problem with Legacy Swaps (P2SH/P2WSH)
 Traditionally, Submarine Swaps on-chain required Pay-to-Script-Hash (P2SH) or Pay-to-Witness-Script-Hash (P2WSH). 

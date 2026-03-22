@@ -10,10 +10,10 @@ tags:
 
 # MuSig2 & Schnorr Signatures
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
 
-> [!abstract] Core Concept
-> Schnorr signatures are a highly linear, efficient cryptographic scheme introduced with Taproot. They enable "MuSig2," a protocol where multiple participants aggregate their public keys and partial signatures into a single, indistinguishable keypair.
+> [!abstract] TL;DR
+> MuSig2 is a multi-signature scheme for Schnorr signatures that allows multiple parties to create a single aggregated public key and signature, improving privacy and efficiency.
 
 ## The Shift from ECDSA to Schnorr
 Historically, Bitcoin used the Elliptic Curve Digital Signature Algorithm (ECDSA) because Klaus Schnorr held a patent on his more efficient signature algorithm until 2008. 

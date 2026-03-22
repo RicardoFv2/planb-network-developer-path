@@ -8,12 +8,12 @@ tags:
   - script
 ---
 
-# Hash Time Locked Contracts (HTLCs)
+# HTLCs (Hash Time Locked Contracts)
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
 
-> [!abstract] Core Concept
-> Hash Time Locked Contracts (HTLCs) are a smart contract paradigm intrinsic to Bitcoin Script. They conditionalize payments using cryptographic preimages and time expirations, enabling trustless multi-hop routing and cross-layer atomic swaps.
+> [!abstract] TL;DR
+> HTLCs are the fundamental smart contract primitive for trustless payments. They lock funds behind a cryptographic secret (Hash Lock) and a fallback expiration timer (Time Lock).
 
 ## The Two Pillars of an HTLC
 

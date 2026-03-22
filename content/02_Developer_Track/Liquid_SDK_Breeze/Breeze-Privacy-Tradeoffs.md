@@ -10,7 +10,10 @@ tags:
 
 # Privacy Trade-offs & Security Models
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
+
+> [!abstract] TL;DR
+> While Breeze is non-custodial, using sidechains like Liquid involves trusting a federation for consensus, though not for custody. Privacy is enhanced via Liquid's Confidential Transactions.
 
 > [!abstract] Core Concept
 > Using an SDK necessarily involves relying on abstractions provided by third parties. Breeze mitigates this by maintaining a non-custodial architecture where keys never leave the device, while acknowledging the inherent trade-offs of sidechains.

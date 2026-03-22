@@ -11,10 +11,10 @@ tags:
 
 # Boltz Swap Mechanism
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
 
-> [!abstract] Core Concept
-> To enable Lightning payments without a native Lightning node, the Breeze SDK uses **Boltz**, a non-custodial swapping service. This allows users to "swap" L-BTC for Lightning SATs (and vice versa) atomically.
+> [!abstract] TL;DR
+> Boltz is a trustless swap provider that enables seamless exchanges between Bitcoin layers (e.g., Liquid to Lightning) using the atomicity of HTLCs.
 
 ## 🛠️ The Swap Flow (Send Payment)
 When a user pays a Lightning invoice using the Liquid SDK:

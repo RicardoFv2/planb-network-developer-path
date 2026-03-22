@@ -1,9 +1,15 @@
 ---
-title: Ecash Properties & History
+title: Ecash Properties and History
 aliases: [David Chaum Ecash, DigiCash, History of Ecash]
 tags: [ecash, history, bearer-asset, privacy]
 ---
-# History and Core Properties of Ecash
+
+# Ecash Properties and History
+
+[[02_Developer_Track/index-MOC#lecture-04|← Return to Index]]
+
+> [!abstract] TL;DR
+> Chaumian eCash is a digital bearer asset that provides perfect transaction privacy. It differs from ledgers by storing value as signed data rather than database entries.
 
 ## The Origins (1982)
 The concept of electronic cash was born in 1982 when cryptographer David Chaum published his paper on blind signatures. This sparked the entire evolution of digital currencies. 

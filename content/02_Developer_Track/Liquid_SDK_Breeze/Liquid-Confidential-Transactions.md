@@ -8,12 +8,12 @@ tags:
   - cryptography
 ---
 
-# Liquid Confidential Transactions (CT)
+# Liquid Confidential Transactions
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
 
-> [!abstract] Core Concept
-> On the Liquid Network, transaction data is blinded by default. This ensures that while the federation can validate the integrity of the network, they cannot see the private financial details of its users.
+> [!abstract] TL;DR
+> Confidential Transactions (CT) on the Liquid Network hide the amount and type of asset being transferred from everyone except the sender and receiver, enhancing financial privacy.
 
 ## 🕵️ What is Blinded?
 Unlike Bitcoin, where the ledger is fully transparent, Liquid uses **Confidential Transactions** to hide:

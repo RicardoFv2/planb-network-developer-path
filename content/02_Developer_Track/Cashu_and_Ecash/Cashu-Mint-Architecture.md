@@ -3,9 +3,12 @@ title: Cashu Mint Architecture
 aliases: [Cashu Server, Mint Custodian]
 tags: [architecture, cashu, mint, privacy, security]
 ---
-# The Architecture of a Cashu Mint
+# Cashu Mint Architecture
 
-A Cashu Mint is the central server component of the Cashu protocol. It issues eCash tokens, tracks spent tokens, and integrates with the Lightning Network.
+[[02_Developer_Track/index-MOC#lecture-04|← Return to Index]]
+
+> [!abstract] TL;DR
+> A Cashu mint is a central server that manages token issuance and double-spend prevention. Due to blind signatures, the mint never sees which user is spending which token.
 
 ## Custodial, but Private
 The Cashu Mint is conceptually similar to a bank or a PayPal server in that it **holds custody of the funds (Bitcoin via Lightning)** backing the eCash it issues. 

@@ -8,9 +8,12 @@ tags:
   - zaps
 ---
 
-# Breeze Noster Integration (NWC)
+# Noster Integration (NWC & Zaps)
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
+
+> [!abstract] TL;DR
+> Breeze integrates with the Noster protocol via Noster Wallet Connect (NWC), allowing users to send "Zaps" (micropayments) directly from social media applications.
 
 > [!abstract] Core Concept
 > The Breeze SDK supports **Noster Wallet Connect (NWC)**, a protocol that allows a Noster application (like Damos or Primal) to remotely communicate with a user’s wallet to request invoices or send "Zaps."

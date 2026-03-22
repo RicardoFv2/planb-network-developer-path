@@ -1,5 +1,7 @@
 # 🌊 Liquid SDK & Breeze
 
+[[02_Developer_Track/index|← Return to Developer Track]]
+
 > Building with the Liquid Network sidechain and the Breeze "Connect-Prepare-Execute" paradigm.
 
 ## 📚 Atomic Notes
@@ -16,4 +18,4 @@
 - [[02_Developer_Track/03. Liquid SDK & Breeze - Deep Dive Summary|03. Liquid SDK & Breeze Summary]]
 
 ---
-[[02_Developer_Track/index|← Back to Developer Track]]
+[[02_Developer_Track/index|← Return to Developer Track]]

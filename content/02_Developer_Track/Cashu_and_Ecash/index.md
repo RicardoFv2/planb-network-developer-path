@@ -1,9 +1,11 @@
 ---
-title: Cashu & Ecash Index
 aliases: [Lecture 04 Index, Cashu Masterclass]
 tags: [moc, index, cashu, ecash]
 ---
-# 💸 Cashu & Ecash (Lecture 04)
+# 💸 Cashu & Ecash
+
+[[02_Developer_Track/index|← Return to Developer Track]]
+(Lecture 04)
 
 This folder contains the Deep Dive Summary and Atomic Notes related to the Cashu protocol and the history of Chaumian eCash, detailing how best-in-class privacy can be achieved by combining historical cryptographic primitives with modern Bitcoin infrastructure.
 

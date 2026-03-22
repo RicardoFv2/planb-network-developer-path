@@ -9,10 +9,10 @@ tags:
 
 # Bitcoin Layers & Fragmentation
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-02|← Return to Index]]
 
-> [!abstract] Core Concept
-> Bitcoin’s base layer optimizes for absolute security and decentralization at the cost of high throughput. To scale to a global medium of exchange, transactions must occur on secondary layers.
+> [!abstract] TL;DR
+> Bitcoin scales through specialized layers (Lightning, Liquid, Ecash), each with unique trade-offs. The "Fragmentation Problem" refers to the isolation of liquidity between these layers.
 
 ## The Scalability Trilemma
 The blockchain trilemma states that a decentralized network can only optimize for two of the three properties: **Decentralization, Security, and Scalability**. 

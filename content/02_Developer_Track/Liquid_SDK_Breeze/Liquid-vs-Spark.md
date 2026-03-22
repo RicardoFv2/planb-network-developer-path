@@ -9,10 +9,10 @@ tags:
 
 # Sidechain Comparison: Liquid vs. Spark
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-03|← Return to Index]]
 
-> [!abstract] Core Concept
-> Breeze offers two primary modern SDK implementations: Liquid and Spark. While they both facilitate Lightning payments via swaps, they rely on different underlying architectures with distinct advantages.
+> [!abstract] TL;DR
+> While both are supported by the Breeze SDK, Liquid is a federated sidechain with strong asset support, whereas Spark is a newer layer-two solution optimized for speed and fluidity. While they both facilitate Lightning payments via swaps, they rely on different underlying architectures with distinct advantages.
 
 ## 💧 The Liquid Network SDK
 Liquid is a federated sidechain managed by a group of financial institutions and Bitcoin companies (The Federation).

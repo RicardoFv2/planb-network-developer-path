@@ -5,6 +5,12 @@ tags: [cryptography, privacy, algorithms, ecash]
 ---
 # Blind Signatures Cryptography
 
+[[02_Developer_Track/index-MOC#lecture-04|← Return to Index]]
+
+> [!abstract] TL;DR
+> Blind Signatures are the "carbon paper" of cryptography. They allow a mint to sign a token without seeing its serial number, ensuring absolute privacy for the user while preventing double-spending.
+ 
+
 Blind signatures are the foundational cryptographic primitive behind Chaumian eCash. They allow a party (the mint) to sign a message without ever actually seeing the contents of that message. 
 
 ## The Carbon Paper Analogy

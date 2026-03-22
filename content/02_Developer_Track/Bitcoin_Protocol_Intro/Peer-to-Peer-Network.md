@@ -3,11 +3,12 @@ tags: [bitcoin-core, p2p, networking, developer-track]
 title: Peer to Peer Network
 ---
 
-# The Peer to Peer Network
+# Peer-to-Peer Network
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]
 
-Bitcoin runs on a decentralized peer-to-peer (P2P) network. A major responsibility of a node is communicating effectively and securely with its peers.
+> [!abstract] TL;DR
+> The Bitcoin P2P network is the communication layer where nodes find each other, exchange block headers, and relay transactions. It distinguishes between raw connectivity (`net.cpp`) and high-level message logic (`net_processing.cpp`).
 
 ## Viewing Connections
 
@@ -34,6 +35,8 @@ Networking logic in Bitcoin Core is conceptually divided into two primary files:
 
 Nodes communicate continuously at high speeds, exchanging inventory data and requesting or forwarding the underlying block and transaction data.
 
----
+## Related Notes
+- [[Bitcoin-Core-Architecture]]
+- [[Key-Source-Files]]
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]

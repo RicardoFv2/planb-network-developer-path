@@ -5,7 +5,10 @@ title: Contributing to Bitcoin Core
 
 # Contributing to Bitcoin Core
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]
+
+> [!abstract] TL;DR
+> Contributing to Bitcoin Core requires a high degree of technical competence and stoicism. The project operates on an unsolicited review model where reviewing others' code is the best way to earn credit and eventually get your own code merged.
 
 Bitcoin Core is maintained by a very small group of active developers globally (estimated at 30-50 people working full-time on the baseline protocol). New contributors are always needed, but the onboarding process can feel intimidating because of the high safety standards.
 
@@ -26,6 +29,8 @@ If you want to contribute, the community strongly recommends the following appro
 
 Currently, funding for Bitcoin Core developers is reasonably accessible compared to the early years. Organizations like OpenSats, Brink, Spiral, Chaincode Labs, Blockstream, MIT DCI, and others provide grants to dedicated contributors depending on their track record and commitment over time.
 
----
+## Related Notes
+- [[Testing-and-Validation]]
+- [[Key-Source-Files]]
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]

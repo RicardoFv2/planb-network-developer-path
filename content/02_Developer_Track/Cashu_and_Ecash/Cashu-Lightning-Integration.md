@@ -5,6 +5,12 @@ tags: [lightning, cashu, interoperability, payments]
 ---
 # Cashu Lightning Integration
 
+[[02_Developer_Track/index-MOC#lecture-04|← Return to Index]]
+
+> [!abstract] TL;DR
+> Cashu uses the Lightning Network as its "connective tissue," allowing users to "mint" eCash by paying Lightning invoices and "melt" eCash to settle invoices.
+ 
+
 Cashu uses the Lightning Network as the connective tissue bridging independent eCash mints directly to the broader global Bitcoin economy. 
 
 Within a specific mint, eCash tokens are transferred peer-to-peer outside the bounds of any network. However, to cross between mints or interact with non-eCash actors, Cashu relies on the process of **Minting** and **Melting**.

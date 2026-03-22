@@ -10,11 +10,11 @@
 - [ ] [[01_Foundations/04. Bitcoin Industry Landscape - Deep Dive Summary|04. Bitcoin Industry Landscape (DEEP DIVE)]]
 - [ ] [[02_Developer_Track/01. Bitcoin Protocol Intro - Deep Dive Summary|01. Bitcoin Protocol Intro (DEEP DIVE)]]
 - [ ] [[02_Developer_Track/02. Technical Part (Swaps & Layers) - Deep Dive Summary|02. Technical Part (Swaps & Layers) (DEEP DIVE)]]
-	- [[02_Developer_Track/Swap Layer/index|Index]]
+	- [[02_Developer_Track/Swap Layer/index|📂 Index: Ver Notas Atómicas]]
 - [ ] [[02_Developer_Track/03. Liquid SDK & Breeze - Deep Dive Summary|03. Liquid SDK & Breeze (DEEP DIVE)]]
-	- [[02_Developer_Track/Liquid_SDK_Breeze/index|Index]]
+	- [[02_Developer_Track/Liquid_SDK_Breeze/index|📂 Index: Ver Notas Atómicas]]
 - [ ] [[02_Developer_Track/04. Ecash & Cashu - Deep Dive Summary|04. Ecash & Cashu (DEEP DIVE)]]
-	- [[02_Developer_Track/Cashu_and_Ecash/index|Index]]
+	- [[02_Developer_Track/Cashu_and_Ecash/index|📂 Index: Ver Notas Atómicas]]
 
 ## 🏛️ Foundations: Why Bitcoin (Lecture 01)
 
@@ -46,13 +46,6 @@
 - [ ] [[01_Foundations/Why_Bitcoin/Shrinkflation-and-Skimpflation|Shrinkflation and Skimpflation]]
 - [ ] [[01_Foundations/Why_Bitcoin/The-Fiat-Life|The Fiat Life]]
 
-### Visuals & Resources
-
-- [ ] [[01_Foundations/Class-01-Visual-Map.canvas|Visual Concept Map]]
-- [ ] [[01_Foundations/Review/Class-01-Summary|Class 01 Summary]]
-- [ ] [[01_Foundations/Review/Class-01-Flashcards|Class 01 Flashcards]]
-- [ ] [[Resources/Lecture-01-Resources|Lecture 01 Resources]]
-
 ## 🛠️ Foundations: How Bitcoin (Lecture 02)
 
 ### Cryptography Foundations
@@ -72,17 +65,6 @@
 - [ ] [[01_Foundations/How_Bitcoin/The-Double-Spending-Problem|The Double-Spending Problem]]
 - [ ] [[01_Foundations/How_Bitcoin/The-UTXO-Model-vs-Account-Model|UTXO vs Account Model]]
 
-### Censorship & Failure Modes
-
-- [ ] [[01_Foundations/How_Bitcoin/E-Gold-and-the-Failure-of-Centralized-Digital-Gold|The Failure of E-Gold]]
-- [ ] [[01_Foundations/How_Bitcoin/Crypto-Anarchy-Ideology|Crypto-Anarchy Ideology]]
-- [ ] [[01_Foundations/How_Bitcoin/Mining-Hardware-Evolution|Mining Hardware Evolution]]
-
-### Visuals & Resources
-
-- [ ] [[01_Foundations/How_Bitcoin/E-Cash-Flow-Diagram|E-Cash Flow Diagram]]
-- [ ] [[Resources/Lecture-02-Resources|Lecture 02 Resources]]
-
 ## 🌍 Foundations: Where Bitcoin (Lecture 03)
 
 ### The Timechain & Consensus
@@ -98,17 +80,6 @@
 - [ ] [[01_Foundations/Where_Bitcoin/Lightning-Network-Payment-Channels|Lightning Network (Payment Channels)]]
 - [ ] [[01_Foundations/Where_Bitcoin/Ark-Lift-Off-Payments|Ark (Lift-Off Payments)]]
 
-### Economics & Adoption
-
-- [ ] [[01_Foundations/Where_Bitcoin/Power-Law-Adoption|Power Law (Adoption)]]
-- [ ] [[01_Foundations/Where_Bitcoin/Greshams-Law|Gresham's Law (Thiers' Law)]]
-- [ ] [[01_Foundations/Where_Bitcoin/Regulatory-Arbitrage-and-Stablecoins|Regulatory Arbitrage (Stablecoins)]]
-
-### Visuals & Resources
-
-- [ ] [[01_Foundations/Review/Class-03-Flashcards|Class 03 Flashcards]]
-- [ ] [[Resources/Lecture-03-Resources|Lecture 03 Resources]]
-
 ## 🏢 Foundations: Bitcoin Industry Landscape (Lecture 04)
 
 ### Terminology & Evolution
@@ -123,21 +94,6 @@
 - [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Custodial-vs-Federated-Models|Custodial vs Federated Models]]
 - [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Layer-2-Security-Models|Layer 2 Security Models]]
 - [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Base-Layer-Sovereignty|Base Layer Sovereignty]]
-
-### Network Architecture
-
-- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Bitcoin-Network-Layers|Bitcoin Network Layers]]
-- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/RGB-and-Taproot-Assets|RGB and Taproot Assets]]
-
-### Business & Monetization
-
-- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Bitcoin-Business-Models|Bitcoin Business Models]]
-- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Infrastructure-Business-Models|Infrastructure Business Models]]
-- [ ] [[01_Foundations/Bitcoin_Industry_Landscape/Monetizing-Decentralization|Monetizing Decentralization]]
-
-### Visuals & Resources
-
-- [ ] [[01_Foundations/Review/Class-04-Flashcards|Class 04 Flashcards]]
 
 ## 💻 Developer Track (Lecture 01)
 
@@ -158,14 +114,35 @@
 - [ ] [[02_Developer_Track/Swap Layer/HTLCs|Hash Time Locked Contracts (HTLCs)]]
 - [ ] [[02_Developer_Track/Swap Layer/Bitcoin-Script|Bitcoin Script & OpCodes]]
 - [ ] [[02_Developer_Track/Swap Layer/Transaction-Malleability|Transaction Malleability & SegWit]]
-- [ ] [[02_Developer_Track/Swap Layer/Submarine-Swaps|Submarine Swaps]]
+- [ ] [[02_Developer_Track/Swap Layer/Submarine-Swaps|Submarine Swaps: Technical Deep Dive]]
 - [ ] [[02_Developer_Track/Swap Layer/Taproot-Swaps|Taproot & Advanced Scripts]]
 - [ ] [[02_Developer_Track/Swap Layer/MuSig2|MuSig2 & Schnorr Signatures]]
 
-### 🛠️ Liquid SDK & Breeze (Lecture 03 Deep Dives)
+### [[02_Developer_Track/Swap Layer/index|🔄 Swap Layer (Lecture 02 Index)]]
+
+## 💻 Developer Track (Lecture 03)
+
+### Liquid SDK & Breeze
+
 - [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Breeze-SDK-Paradigm|Breeze SDK Paradigm: Connect, Prepare, Execute]]
 - [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Liquid-vs-Spark|Sidechain Comparison: Liquid vs. Spark]]
 - [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Breeze-Privacy-Tradeoffs|Privacy Trade-offs & Security Models]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Liquid-Confidential-Transactions|Confidential Transactions (CT)]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Liquid-Multi-Asset-Support|Multi-Asset Support (USDt)]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Boltz-Swap-Mechanism|Boltz Swap Mechanism (L-BTC to Lightning)]]
+- [ ] [[02_Developer_Track/Liquid_SDK_Breeze/Breeze-Noster-Integration|Noster Integration (NWC & Zaps)]]
+
+### [[02_Developer_Track/Liquid_SDK_Breeze/index|🌊 Liquid SDK & Breeze (Lecture 03 Index)]]
+
+## 💻 Developer Track (Lecture 04)
+
+### Cashu & Ecash
+
+- [ ] [[02_Developer_Track/Cashu_and_Ecash/Ecash-Properties-and-History|Ecash Properties & History]]
+- [ ] [[02_Developer_Track/Cashu_and_Ecash/Blind-Signatures-Cryptography|Blind Signatures Cryptography]]
+- [ ] [[02_Developer_Track/Cashu_and_Ecash/Cashu-Mint-Architecture|Cashu Mint Architecture]]
+- [ ] [[02_Developer_Track/Cashu_and_Ecash/Cashu-Lightning-Integration|Cashu Lightning Integration]]
+- [ ] [[02_Developer_Track/Cashu_and_Ecash/Cashu-Programmability-P2PK-HTLC|Cashu Programmability (P2PK & HTLC)]]
 
 ### [[02_Developer_Track/Cashu_and_Ecash/index|💸 Cashu & Ecash (Lecture 04 Index)]]
 
@@ -174,12 +151,6 @@
 - [ ] [[Recursos y Cursos|📚 Plan B Network - General Resources & Books]]
 - [ ] [[Resources/Glossary-of-Terms|Glossary of Terms]]
 
-### 🧠 Review & Flashcards
-
-- [ ] [[01_Foundations/Review/Class-01-Flashcards|Class 01 Flashcards]]
-- [ ] [[01_Foundations/Review/Class-03-Flashcards|Class 03 Flashcards]]
-- [ ] [[01_Foundations/Review/Class-04-Flashcards|Class 04 Flashcards]]
-
 ---
 
-**Total Progress:** 20%
+**Total Progress:** 25%

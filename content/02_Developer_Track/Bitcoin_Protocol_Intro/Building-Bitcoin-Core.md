@@ -5,7 +5,10 @@ title: Building Bitcoin Core
 
 # Building Bitcoin Core from Source
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]
+
+> [!abstract] TL;DR
+> Building Bitcoin Core from source is essential for independent verification and development. The process involves using `autogen.sh`, `configure`, and `make` after installing necessary dependencies.
 
 Building Bitcoin Core directly from the source code rather than downloading a pre-compiled binary is a fundamental skill for developers and serious node operators.
 
@@ -23,6 +26,8 @@ The standard process follows these steps (example for Unix-like systems):
 
 Building from source allows you to verify what you run and the ability to test new changes manually.
 
----
+## Related Notes
+- [[Bitcoin-Core-Architecture]]
+- [[Key-Source-Files]]
 
-[[02_Developer_Track/index|← Return to Index]]
+[[02_Developer_Track/index-MOC#lecture-01|← Return to Index]]

@@ -1,6 +1,7 @@
-# 🔄 Swap Layer
+# 🔄 Swap Layer (Interoperability)
 
-> Technical deep dives into Bitcoin's secondary layers, atomic swaps, and script-based innovations.
+[[02_Developer_Track/index|← Return to Developer Track]]
+ deep dives into Bitcoin's secondary layers, atomic swaps, and script-based innovations.
 
 ## 📚 Atomic Notes
 
@@ -16,4 +17,4 @@
 - [[02_Developer_Track/02. Technical Part (Swaps & Layers) - Deep Dive Summary|02. Technical Part (Swaps & Layers)]]
 
 ---
-[[02_Developer_Track/index|← Back to Developer Track]]
+[[02_Developer_Track/index|← Return to Developer Track]]
